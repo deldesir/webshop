@@ -80,7 +80,7 @@ $.extend(shopping_cart, {
 				localStorage.setItem("last_visited", window.location.pathname);
 			}
 			frappe.call('webshop.webshop.api.get_guest_redirect_on_action').then((res) => {
-				window.location.href = res.message || "/login";
+				window.location.href = res.message || "/erp/login";
 			});
 		} else {
 			shopping_cart.freeze();
@@ -197,7 +197,7 @@ $.extend(shopping_cart, {
 					localStorage.setItem("last_visited", window.location.pathname);
 				}
 				frappe.call('webshop.webshop.api.get_guest_redirect_on_action').then((res) => {
-					window.location.href = res.message || "/login";
+					window.location.href = res.message || "/erp/login";
 				});
 				return;
 			}
