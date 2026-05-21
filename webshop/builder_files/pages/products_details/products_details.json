@@ -13,8 +13,6 @@
     "flexWrap": "wrap",
     "position": "relative"
    },
-   "blockClientScript": "",
-   "blockDataScript": "",
    "blockId": "root",
    "blockName": null,
    "children": [
@@ -22,8 +20,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "u67ywjcbc",
      "blockName": "Script Utils",
      "children": [],
@@ -48,8 +44,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "q10qlftaw",
      "blockName": "container",
      "children": [],
@@ -74,8 +68,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "ckysttjpg",
      "blockName": "search-wrapper",
      "children": [
@@ -83,8 +75,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "ly9zqyjty",
        "blockName": "close-button",
        "children": [
@@ -95,8 +85,6 @@
           "height": "16px",
           "width": "16px"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "6urqojndt",
          "blockName": "container",
          "children": [],
@@ -157,8 +145,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "tbd03r5i8",
        "blockName": "clamp-js",
        "children": [],
@@ -183,8 +169,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "6w129haf8",
        "blockName": "upper-part",
        "children": [
@@ -192,15 +176,13 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "3yhk7e3zt",
          "blockName": "search-box",
          "children": [],
          "classes": [],
          "customAttributes": {
           "border": "none",
-          "placeholder": "Search"
+          "placeholder": "Rechercher"
          },
          "dataKey": null,
          "dynamicValues": [],
@@ -239,8 +221,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "r57gs5qmb",
        "blockName": "lower-part",
        "children": [
@@ -248,8 +228,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "ack0gdpg4",
          "blockName": "Search Results Group",
          "children": [
@@ -257,8 +235,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "2iwnl99v4",
            "blockName": "Header",
            "children": [
@@ -266,8 +242,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "16hwgwc6i",
              "blockName": null,
              "children": [],
@@ -310,8 +284,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "yr4dzyr5w",
            "blockName": "Item",
            "children": [
@@ -319,8 +291,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "jxu3yeu7i",
              "blockName": null,
              "children": [],
@@ -345,8 +315,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "hcmyf06i7",
              "blockName": "container",
              "children": [
@@ -354,8 +322,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "ro9swnhvp",
                "blockName": null,
                "children": [],
@@ -380,8 +346,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "tv2zgpqga",
                "blockName": null,
                "children": [],
@@ -496,8 +460,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "0f5t94k07",
      "blockName": "Variants",
      "children": [
@@ -505,8 +467,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "quefqwwxg",
        "blockName": "Nav - Links - Center",
        "children": [
@@ -514,8 +474,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "zifeys23u",
          "blockName": "Logo",
          "children": [
@@ -523,8 +481,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "jqymsilte",
            "blockName": "app logo",
            "children": [
@@ -534,8 +490,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "jc272hdvl",
              "children": [],
              "classes": [],
@@ -566,8 +520,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "2oxtw3lsb",
            "blockName": "Shop",
            "children": [],
@@ -607,8 +559,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "xzb3841is",
          "blockName": "Links",
          "children": [
@@ -616,8 +566,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "n4tsf7a32",
            "blockName": "Shop",
            "children": [],
@@ -664,8 +612,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "7p73ho9e4",
          "blockName": "Icons",
          "children": [
@@ -673,8 +619,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "mpq3peaex",
            "blockName": "search",
            "children": [
@@ -685,8 +629,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "2znl2zyvw",
              "blockName": "container",
              "children": [],
@@ -734,8 +676,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "mx2cghpcd",
            "blockName": "account",
            "children": [
@@ -746,8 +686,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "iufrwcf3q",
              "blockName": "container",
              "children": [],
@@ -798,8 +736,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "1i56q472l",
            "blockName": "cart",
            "children": [
@@ -810,8 +746,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "iq9rlq23g",
              "blockName": "container",
              "children": [],
@@ -861,8 +795,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "qibm3cuhv",
            "blockName": "menu",
            "children": [
@@ -875,8 +807,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "3iztg9jm4",
              "blockName": "container",
              "children": [],
@@ -958,8 +888,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "wj1kn69w3",
        "blockName": "Nav - Links - Right",
        "children": [
@@ -967,8 +895,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "588l7zdae",
          "blockName": "Logo",
          "children": [
@@ -976,8 +902,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "fc18l40hq",
            "blockName": "app logo",
            "children": [
@@ -987,8 +911,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "rnk6scase",
              "children": [],
              "classes": [],
@@ -1019,8 +941,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "d8lso7zmy",
            "blockName": "Shop",
            "children": [],
@@ -1060,8 +980,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "93xa9okep",
          "blockName": "Links and Icons",
          "children": [
@@ -1069,8 +987,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "3jgqdj6bh",
            "blockName": "Links",
            "children": [
@@ -1078,8 +994,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "5oj8esph5",
              "blockName": "Shop",
              "children": [],
@@ -1126,8 +1040,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "tbfnq05c4",
            "blockName": "divider",
            "children": [],
@@ -1147,8 +1059,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "bcvkvgm8k",
            "blockName": "Icons",
            "children": [
@@ -1156,8 +1066,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "knle8wivd",
              "blockName": "search",
              "children": [
@@ -1168,8 +1076,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "kyeolqy0v",
                "blockName": "container",
                "children": [],
@@ -1217,8 +1123,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "o2xrxnxsp",
              "blockName": "account",
              "children": [
@@ -1229,8 +1133,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "lj6t8awlp",
                "blockName": "container",
                "children": [],
@@ -1281,8 +1183,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "s22vn8jh2",
              "blockName": "cart",
              "children": [
@@ -1293,8 +1193,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "8pr1fkfsl",
                "blockName": "container",
                "children": [],
@@ -1344,8 +1242,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ivsz6ecp2",
              "blockName": "menu",
              "children": [
@@ -1358,8 +1254,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "oga1gim2n",
                "blockName": "container",
                "children": [],
@@ -1454,8 +1348,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "7y75qgg0d",
        "blockName": "Nav - Links - Left",
        "children": [
@@ -1463,8 +1355,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "t6cqz9d2f",
          "blockName": "Logo and Links",
          "children": [
@@ -1472,8 +1362,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "il4hw62d1",
            "blockName": "Logo",
            "children": [
@@ -1481,8 +1369,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "b8g5v7jby",
              "blockName": "app logo",
              "children": [
@@ -1492,8 +1378,6 @@
                 "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
                },
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "7fe01js68",
                "children": [],
                "classes": [],
@@ -1524,8 +1408,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "amsva193s",
              "blockName": "Shop",
              "children": [],
@@ -1565,8 +1447,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "5mbl0chtr",
            "blockName": "divider",
            "children": [
@@ -1574,8 +1454,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "j1pqnoo0z",
              "blockName": "value",
              "children": [],
@@ -1608,8 +1486,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "onp7xeo65",
            "blockName": "Links",
            "children": [
@@ -1617,8 +1493,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "mj4w5l6jo",
              "blockName": "Shop",
              "children": [],
@@ -1678,8 +1552,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "s5nxc1i6y",
          "blockName": "Icons",
          "children": [
@@ -1687,8 +1559,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "d0ract59t",
            "blockName": "search",
            "children": [
@@ -1699,8 +1569,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "va8zvm8vm",
              "blockName": "container",
              "children": [],
@@ -1748,8 +1616,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "v3kmj7w4n",
            "blockName": "account",
            "children": [
@@ -1760,8 +1626,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ntvk0kugv",
              "blockName": "container",
              "children": [],
@@ -1812,8 +1676,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "m6jvuqpnd",
            "blockName": "cart",
            "children": [
@@ -1824,8 +1686,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "0cmtgrv6w",
              "blockName": "container",
              "children": [],
@@ -1875,8 +1735,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "s29rgqhl6",
            "blockName": "menu",
            "children": [
@@ -1889,8 +1747,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "6hvck9t2o",
              "blockName": "container",
              "children": [],
@@ -1972,8 +1828,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "w2kppfk9t",
        "blockName": "Nav - Logo - Center",
        "children": [
@@ -1981,8 +1835,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "09ej12opo",
          "blockName": "Links",
          "children": [
@@ -1990,8 +1842,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "0q8t6fh0z",
            "blockName": "Shop",
            "children": [],
@@ -2038,8 +1888,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "5qp2rchv0",
          "blockName": "Logo",
          "children": [
@@ -2047,8 +1895,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "u0gna0qfd",
            "blockName": "app logo",
            "children": [
@@ -2058,8 +1904,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "q389ib5x1",
              "children": [],
              "classes": [],
@@ -2090,8 +1934,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "algmvj1p0",
            "blockName": "Shop",
            "children": [],
@@ -2131,8 +1973,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "26led66m0",
          "blockName": "Icons",
          "children": [
@@ -2140,8 +1980,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "2t5awu9j8",
            "blockName": "search",
            "children": [
@@ -2152,8 +1990,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ki8xtzoqh",
              "blockName": "container",
              "children": [],
@@ -2201,8 +2037,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "j2jmqklmn",
            "blockName": "account",
            "children": [
@@ -2213,8 +2047,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "jfov8p8jx",
              "blockName": "container",
              "children": [],
@@ -2265,8 +2097,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "9ce4nwumo",
            "blockName": "cart",
            "children": [
@@ -2277,8 +2107,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "h5yfu3ujc",
              "blockName": "container",
              "children": [],
@@ -2328,8 +2156,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "cleax4vjn",
            "blockName": "menu",
            "children": [
@@ -2342,8 +2168,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ri5xt7wzt",
              "blockName": "container",
              "children": [],
@@ -2425,8 +2249,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "lmblxl4il",
        "blockName": "Menu",
        "children": [
@@ -2434,16 +2256,12 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "ek2oxyo1d",
          "children": [
           {
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "9udwwrty8",
            "blockName": "container",
            "children": [],
@@ -2494,8 +2312,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "arf10cy3v",
          "blockName": "container",
          "children": [
@@ -2503,8 +2319,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "r4s7bzl5b",
            "blockName": "repeater",
            "children": [
@@ -2512,8 +2326,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "zpnqh4cpe",
              "blockName": "Links",
              "children": [],
@@ -2558,8 +2370,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "kzogj1pv3",
            "blockName": "p | Profile",
            "children": [],
@@ -2631,9 +2441,9 @@
         "isRequired": false,
         "options": {
          "defaultValue": {
-          "About": "/about",
+          "Boutique": "/store",
           "Collections": "/collections",
-          "Store": "/store"
+          "À propos": "/about"
          },
          "maxItems": null,
          "minItems": null
@@ -2685,7 +2495,7 @@
       "width": "100%"
      },
      "blockClientScript": "if (block_data.title) {\n  document.title = `Item - ${block_data.title}`;\n}",
-     "blockDataScript": "web_item_code = frappe.form_dict.item_code\nif web_item_code:\n    details = frappe.call(\"webshop.webshop.api.get_item\", item_code=web_item_code, combine_template=True)\n\n    block.item_details = details.product_info\n    block.cart_settings = details.cart_settings\n\n    has_variants = block.item_details.get(\"details\").get(\"has_variants\", False)\n    variant_of = block.item_details.get(\"details\").get(\"variant_of\", None)\n\n    block.show_variant_selector = bool(has_variants or variant_of)\n    if has_variants or variant_of:\n        block.show_variant_selector = bool(has_variants or variant_of)\n        block.variant_template_item_code = (\n            block.item_details.get(\"details\").get(\"item_code\")\n            if has_variants\n            else variant_of\n        )\n\n    block.has_specs = bool(\n        len(details.product_info.get(\"details\").get(\"website_specifications\"))\n    )\n\n    images = []\n    if details.product_info.get(\"details\").get(\"website_image\"):\n        images.append({\"url\": details.product_info.get(\"details\").get(\"website_image\")})\n    if len(block.item_details.get(\"slideshow\", {}).get(\"slideshow_items\", {})):\n        for item in block.item_details.get(\"slideshow\", {}).get(\"slideshow_items\", {}):\n            images.append({\"url\": item.get(\"image\")})\n    # images.extend(images)\n    block.images = images\n    block.initially_selected_image = images[0] if len(images) else None\n    block.has_image = bool(len(images))\n\n    if block.item_details.get(\"attributes\"):\n        selected_attributes = {}\n        for item in block.item_details.get(\"attributes\"):\n            selected_attributes[item.get(\"attribute\")] = item.get(\"attribute_value\")\n        block.selected_attribute = frappe.call(\n            \"webshop.webshop.utils.misc.as_json\",\n            val=block.item_details.get(\"attributes\"),\n        )\n\n\nreview_page = frappe.form_dict.review_page or 1\n\nblock.review_data = frappe.call(\n    \"webshop.webshop.doctype.item_review.item_review.get_item_reviews\",\n    web_item=block.item_details.get(\"details\").get(\"name\"),\n    start=0,\n    end=10 * review_page,\n    no_cache=True,\n)\n\nblock.combined_reviews_per_rating = [\n    {\n        \"percent\": block.review_data.get(\"reviews_per_rating\")[i],\n        \"count\": block.review_data.get(\"reviews_per_rating_count\")[i],\n        \"index\": i + 1,\n    }\n    for i in range(5)\n]\n\nblock.combined_reviews_per_rating.reverse()\n\nblock.block_data = { \"title\" : block.item_details.get(\"details\", {}).get(\"web_item_name\", \"\") }\n",
+     "blockDataScript": "web_item_code = frappe.form_dict.item_code\nif web_item_code:\n    details = frappe.call(\"webshop.webshop.api.get_item\", item_code=web_item_code, combine_template=True)\n\n    block.item_details = details.product_info\n    block.cart_settings = details.cart_settings\n\n    has_variants = block.item_details.get(\"details\").get(\"has_variants\", False) if block.item_details else False\n    variant_of = block.item_details.get(\"details\").get(\"variant_of\", None) if block.item_details else None\n\n    block.show_variant_selector = bool(has_variants or variant_of)\n    if has_variants or variant_of:\n        block.show_variant_selector = bool(has_variants or variant_of)\n        block.variant_template_item_code = (\n            block.item_details.get(\"details\").get(\"item_code\")\n            if has_variants\n            else variant_of\n        )\n\n    block.has_specs = bool(\n        len(details.product_info.get(\"details\").get(\"website_specifications\"))\n    ) if details.product_info else False\n\n    images = []\n    if details.product_info and details.product_info.get(\"details\").get(\"website_image\"):\n        images.append({\"url\": details.product_info.get(\"details\").get(\"website_image\")})\n    if block.item_details and len(block.item_details.get(\"slideshow\", {}).get(\"slideshow_items\", {})):\n        for item in block.item_details.get(\"slideshow\", {}).get(\"slideshow_items\", {}):\n            images.append({\"url\": item.get(\"image\")})\n    block.images = images\n    block.initially_selected_image = images[0] if len(images) else None\n    block.has_image = bool(len(images))\n\n    if block.item_details and block.item_details.get(\"attributes\"):\n        selected_attributes = {}\n        for item in block.item_details.get(\"attributes\"):\n            selected_attributes[item.get(\"attribute\")] = item.get(\"attribute_value\")\n        block.selected_attribute = frappe.call(\n            \"webshop.webshop.utils.misc.as_json\",\n            val=block.item_details.get(\"attributes\"),\n        )\n\n# Reviews: only run if we have item_details\nif getattr(block, \"item_details\", None):\n    review_page = frappe.form_dict.review_page or 1\n\n    block.review_data = frappe.call(\n        \"webshop.webshop.doctype.item_review.item_review.get_item_reviews\",\n        web_item=block.item_details.get(\"details\").get(\"name\"),\n        start=0,\n        end=10 * review_page,\n        no_cache=True,\n    ) or {}\n\n    r_rating = block.review_data.get(\"reviews_per_rating\") or [0, 0, 0, 0, 0]\n    r_count = block.review_data.get(\"reviews_per_rating_count\") or [0, 0, 0, 0, 0]\n    block.combined_reviews_per_rating = [\n        {\n            \"percent\": r_rating[i] if i < len(r_rating) else 0,\n            \"count\": r_count[i] if i < len(r_count) else 0,\n            \"index\": i + 1,\n        }\n        for i in range(5)\n    ]\n    block.combined_reviews_per_rating.reverse()\n    block.block_data = { \"title\" : block.item_details.get(\"details\", {}).get(\"web_item_name\", \"\") }\nelse:\n    block.review_data = {}\n    block.combined_reviews_per_rating = []\n    block.block_data = { \"title\" : \"\" }",
      "blockId": "gpd4a30qk",
      "blockName": "Product Details",
      "children": [
@@ -2702,8 +2512,7 @@
         "position": "static",
         "width": "100%"
        },
-       "blockClientScript": "window.renderStarRating = (rating) => {\n\t// Round to nearest 0.5\n\tconst rounded = Math.round(Math.max(0, Math.min(5, rating)) * 2) / 2;\n\n\tconst fullStars = Math.floor(rounded);\n\tconst halfStar = rounded % 1 !== 0;\n\tconst emptyStars = 5 - fullStars - (halfStar ? 1 : 0);\n\n\tconst fullStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"#171717\"/>\n\t</svg>`;\n\n\tconst emptyStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"#E5E5E5\"/>\n\t</svg>`;\n\n\tconst halfStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t<defs>\n\t\t\t<linearGradient id=\"half-fill\">\n\t\t\t\t<stop offset=\"50%\" stop-color=\"#171717\"/>\n\t\t\t\t<stop offset=\"50%\" stop-color=\"#E5E5E5\"/>\n\t\t\t</linearGradient>\n\t\t</defs>\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"url(#half-fill)\"/>\n\t</svg>`;\n\n\treturn `\n\t\t<div style=\"display:flex;gap:4px;align-items:center;\">\n\t\t\t${fullStarSvg.repeat(fullStars)}\n\t\t\t${halfStar ? halfStarSvg : \"\"}\n\t\t\t${emptyStarSvg.repeat(emptyStars)}\n\t\t</div>\n\t`;\n}",
-       "blockDataScript": "",
+       "blockClientScript": "window.renderStarRating = (rating) => {\n\t// Round to nearest 0.5\n\tconst rounded = Math.round(Math.max(0, Math.min(5, rating)) * 2) / 2;\n\n\tconst fullStars = Math.floor(rounded);\n\tconst halfStar = rounded % 1 !== 0;\n\tconst emptyStars = 5 - fullStars - (halfStar ? 1 : 0);\n\n\tconst fullStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http:///www.w3.org/2000/svg\">\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"#171717\"/>\n\t</svg>`;\n\n\tconst emptyStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http:///www.w3.org/2000/svg\">\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"#E5E5E5\"/>\n\t</svg>`;\n\n\tconst halfStarSvg = `\n\t<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http:///www.w3.org/2000/svg\">\n\t\t<defs>\n\t\t\t<linearGradient id=\"half-fill\">\n\t\t\t\t<stop offset=\"50%\" stop-color=\"#171717\"/>\n\t\t\t\t<stop offset=\"50%\" stop-color=\"#E5E5E5\"/>\n\t\t\t</linearGradient>\n\t\t</defs>\n\t\t<path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n\t\t\td=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\"\n\t\t\tfill=\"url(#half-fill)\"/>\n\t</svg>`;\n\n\treturn `\n\t\t<div style=\"display:flex;gap:4px;align-items:center;\">\n\t\t\t${fullStarSvg.repeat(fullStars)}\n\t\t\t${halfStar ? halfStarSvg : \"\"}\n\t\t\t${emptyStarSvg.repeat(emptyStars)}\n\t\t</div>\n\t`;\n}",
        "blockId": "mo7cddb34",
        "blockName": "renderStarRatingScript",
        "children": [],
@@ -2735,8 +2544,6 @@
         "flexDirection": "column",
         "gap": "16px"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "fjfo2qwwn",
        "blockName": "Main Details",
        "children": [
@@ -2749,8 +2556,6 @@
           "gap": "40px",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "lgyyh3mqx",
          "blockName": "Wrapper",
          "children": [
@@ -2772,8 +2577,6 @@
             "position": "static",
             "width": "50%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "okt4fd93w",
            "blockName": "Slideshow",
            "children": [
@@ -2794,7 +2597,6 @@
               "objectFit": "cover"
              },
              "blockClientScript": "const slideshow_wrapper = this.closest(\"[data-slideshow]\")\n\nslideshow_wrapper.addEventListener(\"change_image_event\",(ev) => {\n  this.src = ev.detail;\n})",
-             "blockDataScript": "",
              "blockId": "q7s5mftsr",
              "blockName": "Selected Image",
              "children": [],
@@ -2820,7 +2622,7 @@
              "originalElement": "",
              "props": {},
              "rawStyles": {
-              "aspectRatio": "1/1",
+              "aspectRatio": "1/erp/1",
               "object-fit": "contain"
              },
              "referenceBlockId": null,
@@ -2842,8 +2644,6 @@
               "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "agmz6x6k2",
              "blockName": "Repeater",
              "children": [
@@ -2867,7 +2667,6 @@
                 "width": "105px"
                },
                "blockClientScript": "const slideshow_wrapper = this.closest(\"[data-slideshow]\")\nconst change_image_event = new CustomEvent(\"change_image_event\", {detail: props[\"image_url\"]})\nthis.addEventListener(\"click\",() => {\n  slideshow_wrapper.dispatchEvent(change_image_event);\n})",
-               "blockDataScript": "",
                "blockId": "mpnrwsqyy",
                "blockName": "Item",
                "children": [
@@ -2881,8 +2680,6 @@
                   "objectFit": "cover",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "zimt9z9b9",
                  "blockName": "Slidehow Image",
                  "children": [],
@@ -2936,7 +2733,7 @@
                 }
                },
                "rawStyles": {
-                "aspectRatio": "1/1",
+                "aspectRatio": "1/erp/1",
                 "flex": "1 0 0"
                },
                "referenceBlockId": null,
@@ -2983,8 +2780,6 @@
               "position": "relative",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "yadryn6a4",
              "blockName": "container",
              "children": [
@@ -2999,7 +2794,6 @@
                 "position": "static",
                 "width": "fit-content"
                },
-               "blockClientScript": "",
                "blockDataScript": "block.does_not_have_image = not props[\"has_image\"]",
                "blockId": "3hermlo5h",
                "blockName": null,
@@ -3010,7 +2804,7 @@
                "dynamicValues": [],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>No Image Available</p>",
+               "innerHTML": "<p>Aucune image disponible</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -3090,8 +2884,6 @@
             "position": "relative",
             "width": "50%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "ppzws7bda",
            "blockName": "Item Details",
            "children": [
@@ -3107,8 +2899,6 @@
               "overflow": "hidden",
               "width": "fit-content"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "5zc92lp2q",
              "blockName": "Name and Price",
              "children": [
@@ -3122,8 +2912,6 @@
                 "fontWeight": "600",
                 "lineHeight": "140% "
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "zl70xmcvq",
                "blockName": "Product Title",
                "children": [],
@@ -3140,7 +2928,7 @@
                ],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>Product Title</p>",
+               "innerHTML": "<p>Titre du produit</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -3159,8 +2947,6 @@
                 "display": "flex",
                 "gap": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "9zbxnnmku",
                "blockName": "Price",
                "children": [
@@ -3217,7 +3003,6 @@
                   "borderWidth": "1px",
                   "width": "0"
                  },
-                 "blockClientScript": "",
                  "blockDataScript": "block.visible = block.cart_settings.get(\"enable_reviews\") and block.item_details.get(\"price\", {}).get(\"formatted_price\", False)",
                  "blockId": "0vlwljleh",
                  "blockName": "Divider",
@@ -3253,8 +3038,6 @@
                   "display": "flex",
                   "gap": "8px"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "eg79gn66l",
                  "blockName": "Product Review",
                  "children": [
@@ -3280,10 +3063,8 @@
                       "height": "20px",
                       "width": "20px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "dfudsv0mv",
-                     "blockName": "icon/solid/star",
+                     "blockName": "icon/erp/solid/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -3309,10 +3090,8 @@
                       "height": "20px",
                       "width": "20px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "kxi3a0p3i",
-                     "blockName": "icon/solid/star",
+                     "blockName": "icon/erp/solid/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -3338,10 +3117,8 @@
                       "height": "20px",
                       "width": "20px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "hwuafvn17",
-                     "blockName": "icon/solid/star",
+                     "blockName": "icon/erp/solid/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -3367,10 +3144,8 @@
                       "height": "20px",
                       "width": "20px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "jg0gwiqio",
-                     "blockName": "icon/solid/star",
+                     "blockName": "icon/erp/solid/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -3396,10 +3171,8 @@
                       "height": "20px",
                       "width": "20px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "4rcnmy0t8",
-                     "blockName": "icon/line/star",
+                     "blockName": "icon/erp/line/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -3447,7 +3220,6 @@
                     "lineHeight": "115% ",
                     "textAlign": "center"
                    },
-                   "blockClientScript": "",
                    "blockDataScript": "block.text = f\"({block.review_data.get(\"average_rating\")} stars) • {block.review_data.get(\"total_reviews\")} reviews\"",
                    "blockId": "ib531zf3y",
                    "blockName": "Text",
@@ -3465,7 +3237,7 @@
                    ],
                    "element": "p",
                    "extendedFromComponent": null,
-                   "innerHTML": "<p>(4 stars) • 10 reviews</p>",
+                   "innerHTML": "<p>(4 étoiles) • 10 avis</p>",
                    "isChildOfComponent": null,
                    "isRepeaterBlock": false,
                    "mobileStyles": {},
@@ -3560,8 +3332,6 @@
               "overflow": "hidden",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "sat7q82z6",
              "blockName": "Cart Options",
              "children": [
@@ -3590,8 +3360,6 @@
                   "overflow": "hidden",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "oaswq288c",
                  "blockName": "repeater",
                  "children": [
@@ -3604,8 +3372,6 @@
                     "flexDirection": "column",
                     "gap": "12px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "65b7wfgpu",
                    "blockName": "Variant",
                    "children": [
@@ -3618,8 +3384,6 @@
                       "justifyContent": "space-between",
                       "width": "100%"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "c7wzfjm1s",
                      "blockName": "Attribute",
                      "children": [
@@ -3632,8 +3396,6 @@
                         "letterSpacing": "0.21px",
                         "lineHeight": "115% "
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "pjy20i2t4",
                        "blockName": "Select Size",
                        "children": [],
@@ -3650,7 +3412,7 @@
                        ],
                        "element": "p",
                        "extendedFromComponent": null,
-                       "innerHTML": "<p>Select Size</p>",
+                       "innerHTML": "<p>Sélectionner la taille</p>",
                        "isChildOfComponent": null,
                        "isRepeaterBlock": false,
                        "mobileStyles": {},
@@ -3688,8 +3450,6 @@
                       "gap": "12px",
                       "width": "100%"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "0zd4h3j67",
                      "blockName": "Values",
                      "children": [
@@ -3712,7 +3472,6 @@
                         "padding": "6px 8px"
                        },
                        "blockClientScript": "const variant_wrapper = this.closest(\"[data-variant-selector]\");\nlet is_selected = false;\nconst toggle_disabled = (disabled) => {\n  if (disabled) {\n    this.disabled = true;\n    this.style.cursor = \"not-allowed\";\n    this.style.background = \"rgb(240,240,240)\";\n    this.querySelector(\"div\").style.color = \"rgb(128,128,128)\";\n  } else {\n    this.disabled = false;\n    this.style.cursor = \"pointer\";\n    this.style.background = \"white\";\n    this.querySelector(\"div\").style.color = \"rgb(56,56,56)\";\n  }\n};\n\nvariant_wrapper.addEventListener(\"selected-attribute\", (ev) => {\n  if (ev.detail.attribute == props[\"attribute\"]) {\n    if (ev.detail.attribute_value == props[\"value\"]) {\n      is_selected = true;\n      this.style.background = \"rgb(56, 56, 56)\";\n      if (this.querySelector(\".value-name\")) {\n        this.querySelector(\".value-name\").style.color = \"white\";\n      }\n      if (!props[\"variant_index\"]) {\n        document.addEventListener(\"DOMContentLoaded\", () => {\n          const event = new CustomEvent(\"select-attribute\", {\n            detail: {\n              attribute: props[\"attribute\"],\n              value: props[\"value\"],\n              is_top_attribute: true,\n              suppress_reset: true,\n            },\n          });\n          variant_wrapper.dispatchEvent(event);\n        });\n      }\n    } else {\n      this.style.background = \"white\";\n      if (this.querySelector(\".value-name\")) {\n        this.querySelector(\".value-name\").style.color = \"rgb(56, 56, 56)\";\n      }\n    }\n  }\n});\n\nvariant_wrapper.addEventListener(\"allowed-option\", (ev) => {\n  if (is_selected || props[\"variant_index\"] == 0) return;\n  if (ev.detail.attribute == props[\"attribute\"]) {\n    if (ev.detail.values.includes(props[\"value\"])) toggle_disabled(false);\n    else toggle_disabled(true);\n  }\n});\n\nvariant_wrapper.addEventListener(\"reset-options\", (ev) => {\n  if (props[\"variant_index\"] == 0) return;\n  this.disabled = false;\n  this.style.cursor = \"pointer\";\n  this.style.background = \"white\";\n  this.querySelector(\"div\").style.color = \"rgb(56,56,56)\";\n});\n\nthis.addEventListener(\"click\", () => {\n  let event = new CustomEvent(\"select-attribute\", {\n    detail: {\n      attribute: props[\"attribute\"],\n      value: props[\"value\"],\n      is_top_attribute: !props[\"variant_index\"],\n    },\n  });\n  variant_wrapper.dispatchEvent(event);\n  event = new CustomEvent(\"selected-attribute\", {\n    detail: {\n      attribute: props[\"attribute\"],\n      value: props[\"value\"],\n    },\n  });\n  variant_wrapper.dispatchEvent(event);\n});\n",
-                       "blockDataScript": "",
                        "blockId": "58kwo3ypp",
                        "blockName": "tag",
                        "children": [
@@ -3728,8 +3487,6 @@
                           "letterSpacing": "0.28px",
                           "lineHeight": "115% "
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "36lci16os",
                          "blockName": "Name",
                          "children": [],
@@ -3931,8 +3688,6 @@
                 "gap": "24px",
                 "width": "100%"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "rf5t0lazx",
                "blockName": "Cart Options",
                "children": [
@@ -3948,8 +3703,6 @@
                   "justifyContent": "center",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "bb4hj4azs",
                  "blockName": "Frame 55",
                  "children": [
@@ -3981,8 +3734,6 @@
                       "padding": "10px 12px",
                       "width": "116px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "uqpcu1xjq",
                      "blockName": "Qty Editor",
                      "children": [
@@ -3995,7 +3746,6 @@
                         "gap": "8px"
                        },
                        "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"decrease-cart-qty\");\n});\n",
-                       "blockDataScript": "",
                        "blockId": "o6vk9cryk",
                        "blockName": "Remove",
                        "children": [
@@ -4006,10 +3756,8 @@
                           "height": "20px",
                           "width": "100%"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "6y0wxzsrr",
-                         "blockName": "icon/line/dash",
+                         "blockName": "icon/erp/line/dash",
                          "children": [],
                          "classes": [],
                          "customAttributes": {},
@@ -4057,7 +3805,6 @@
                         "lineHeight": "115% "
                        },
                        "blockClientScript": "listen(\"updated-qty\", (e) => {\n  this.innerHTML = e.detail.qty\n})",
-                       "blockDataScript": "",
                        "blockId": "izymysemx",
                        "blockName": "Qty",
                        "children": [],
@@ -4087,7 +3834,6 @@
                         "gap": "8px"
                        },
                        "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"increase-cart-qty\");\n});\n",
-                       "blockDataScript": "",
                        "blockId": "zdfuvmwb3",
                        "blockName": "Add",
                        "children": [
@@ -4098,10 +3844,8 @@
                           "height": "20px",
                           "width": "100%"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "2ytyu2uoi",
-                         "blockName": "icon/line/small-add",
+                         "blockName": "icon/erp/line/small-add",
                          "children": [],
                          "classes": [],
                          "customAttributes": {},
@@ -4175,7 +3919,6 @@
                       "width": "434px"
                      },
                      "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"add-to-cart\");\n});\n",
-                     "blockDataScript": "",
                      "blockId": "q1pae5z63",
                      "blockName": "button",
                      "children": [
@@ -4189,8 +3932,6 @@
                         "letterSpacing": "0.24px",
                         "lineHeight": "115% "
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "bbpsxpmxu",
                        "blockName": "Discover",
                        "children": [],
@@ -4200,7 +3941,7 @@
                        "dynamicValues": [],
                        "element": "p",
                        "extendedFromComponent": null,
-                       "innerHTML": "Add to cart",
+                       "innerHTML": "Ajouter au panier",
                        "isChildOfComponent": null,
                        "isRepeaterBlock": false,
                        "mobileStyles": {},
@@ -4279,8 +4020,6 @@
                       "letterSpacing": "0.24px",
                       "lineHeight": "115% "
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "c10ubw5ho",
                      "blockName": "Discover",
                      "children": [],
@@ -4290,7 +4029,7 @@
                      "dynamicValues": [],
                      "element": "p",
                      "extendedFromComponent": null,
-                     "innerHTML": "<p>Buy now</p>",
+                     "innerHTML": "<p>Acheter maintenant</p>",
                      "isChildOfComponent": null,
                      "isRepeaterBlock": false,
                      "mobileStyles": {},
@@ -4389,7 +4128,6 @@
                 "letterSpacing": "0.2px",
                 "lineHeight": "148% "
                },
-               "blockClientScript": "",
                "blockDataScript": "block.description = block.item_details.get(\"details\", {}).get(\"web_long_description\", False) or \"<i>No Description</i>\"",
                "blockId": "xug4zpzvp",
                "blockName": "Engineered for deep work and comfort. This heavyweight fleece hoodie features the iconic Frappe logo. Minimalist design for the modern developer. Pre-shrunk to maintain fit.",
@@ -4407,7 +4145,7 @@
                ],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>Engineered for deep work and comfort. This heavyweight fleece hoodie features the iconic Frappe logo. Minimalist design for the modern developer. Pre-shrunk to maintain fit.</p>",
+               "innerHTML": "<p>Conçu pour un confort et une durabilité exceptionnels. Ce vêtement premium sélectionné par Novadah est idéal pour le quotidien. Un design moderne, pré-rétréci pour conserver sa coupe.</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -4449,8 +4187,6 @@
               "position": "relative",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "h89btigk7",
              "blockName": "More Details",
              "children": [
@@ -4490,7 +4226,6 @@
                   "width": "100%"
                  },
                  "blockClientScript": "let is_open = false;\n\nfunction new_custom_event() {\n  const custom_event = new CustomEvent(\"state_change\", { detail: !is_open });\n  return custom_event;\n}\n\nthis.addEventListener(\"click\", () => {\n  this.closest(\"[data-wrapper]\").dispatchEvent(new_custom_event());\n  is_open = !is_open;\n});",
-                 "blockDataScript": "",
                  "blockId": "aqoij88zv",
                  "blockName": "Label",
                  "children": [
@@ -4504,8 +4239,6 @@
                     "letterSpacing": "0.24px",
                     "lineHeight": "150% "
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "3jae4y3r0",
                    "blockName": "Details",
                    "children": [],
@@ -4515,7 +4248,7 @@
                    "dynamicValues": [],
                    "element": "p",
                    "extendedFromComponent": null,
-                   "innerHTML": "Specifications",
+                   "innerHTML": "Spécifications",
                    "isChildOfComponent": null,
                    "isRepeaterBlock": false,
                    "mobileStyles": {},
@@ -4531,7 +4264,6 @@
                    "attributes": {},
                    "baseStyles": {},
                    "blockClientScript": "const lucidePromise = import(\"https://esm.sh/lucide\");\n\nconst renderIcon = async () => {\n  // remove previous svgs\n  this.querySelectorAll(\"svg\").forEach(elem => elem.remove());\n  \n  const icon = document.createElement(\"i\");\n  icon.dataset.lucide = props.icon_name;\n  this.appendChild(icon);\n\n  const lucide = await lucidePromise;\n  const { createIcons } = lucide;\n\n  // convert kebab-case → PascalCase\n  const iconName = props.icon_name\n    .split(\"-\")\n    .map(w => w[0].toUpperCase() + w.slice(1))\n    .join(\"\");\n\n  const Icon = lucide[iconName];\n\n  createIcons({\n    icons: {\n      [iconName]: Icon\n    }\n  });\n};\n\n\nrenderIcon();\n\nconst wrapper = this.closest(\"[data-wrapper]\")\nif (wrapper) {\n  wrapper.addEventListener(\"state_change\", (ev) => {\n    if (ev.detail) {\n      this.style.transform = \"rotate(180deg)\";\n    } else {\n      this.style.transform = \"rotate(0deg)\";\n    }\n  });\n}",
-                   "blockDataScript": "",
                    "blockId": "w4gmmk2f4",
                    "blockName": "container",
                    "children": [],
@@ -4600,7 +4332,6 @@
                   "width": "100%"
                  },
                  "blockClientScript": "const wrapper = this.closest(\"[data-wrapper]\");\n\nthis.style.maxHeight = \"0px\";\nif (wrapper) {\n  wrapper.addEventListener(\"state_change\", (ev) => {\n    if (ev.detail) {\n      this.style.maxHeight = \"240px\";\n    } else {\n      this.style.maxHeight = \"0px\";\n    }\n  });\n}\n",
-                 "blockDataScript": "",
                  "blockId": "sqtt8rpv8",
                  "blockName": "Table",
                  "children": [
@@ -4615,8 +4346,6 @@
                     "position": "relative",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "m8gk78gi0",
                    "blockName": "Items",
                    "children": [
@@ -4635,8 +4364,6 @@
                       "position": "relative",
                       "width": "100%"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "1rcj3teiw",
                      "blockName": "Row",
                      "children": [
@@ -4654,8 +4381,6 @@
                         "position": "static",
                         "width": "33%"
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "20sohf70i",
                        "blockName": "Label",
                        "children": [
@@ -4670,8 +4395,6 @@
                           "position": "static",
                           "width": "fit-content"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "dk3y7fc01",
                          "blockName": null,
                          "children": [],
@@ -4731,8 +4454,6 @@
                         "position": "static",
                         "width": "67%"
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "q44mvq2qc",
                        "blockName": "Description",
                        "children": [
@@ -4747,8 +4468,6 @@
                           "position": "static",
                           "width": "fit-content"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "9ozlntkw0",
                          "blockName": null,
                          "children": [],
@@ -4900,8 +4619,6 @@
                 "flexDirection": "column",
                 "width": "100%"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "fst0573gb",
                "blockName": "Accordion Sections",
                "children": [
@@ -4923,7 +4640,6 @@
                   "width": "100%"
                  },
                  "blockClientScript": "\n",
-                 "blockDataScript": "",
                  "blockId": "2wyrjwbvg",
                  "blockName": "Section",
                  "children": [
@@ -4941,7 +4657,6 @@
                     "width": "100%"
                    },
                    "blockClientScript": "let is_open = false;\n\nfunction new_custom_event() {\n  const custom_event = new CustomEvent(\"state_change\", { detail: !is_open });\n  return custom_event;\n}\n\nthis.addEventListener(\"click\", () => {\n  this.closest(\"[data-wrapper]\").dispatchEvent(new_custom_event());\n  is_open = !is_open;\n});",
-                   "blockDataScript": "",
                    "blockId": "wr6cstkly",
                    "blockName": "Label",
                    "children": [
@@ -4955,8 +4670,6 @@
                       "letterSpacing": "0.24px",
                       "lineHeight": "150% "
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "kaowm359y",
                      "blockName": "Details",
                      "children": [],
@@ -4973,7 +4686,7 @@
                      ],
                      "element": "p",
                      "extendedFromComponent": null,
-                     "innerHTML": "<p>Details</p>",
+                     "innerHTML": "<p>Détails</p>",
                      "isChildOfComponent": null,
                      "isRepeaterBlock": false,
                      "mobileStyles": {},
@@ -4989,7 +4702,6 @@
                      "attributes": {},
                      "baseStyles": {},
                      "blockClientScript": "const lucidePromise = import(\"https://esm.sh/lucide\");\n\nconst renderIcon = async () => {\n  // remove previous svgs\n  this.querySelectorAll(\"svg\").forEach(elem => elem.remove());\n  \n  const icon = document.createElement(\"i\");\n  icon.dataset.lucide = props.icon_name;\n  this.appendChild(icon);\n\n  const lucide = await lucidePromise;\n  const { createIcons } = lucide;\n\n  // convert kebab-case → PascalCase\n  const iconName = props.icon_name\n    .split(\"-\")\n    .map(w => w[0].toUpperCase() + w.slice(1))\n    .join(\"\");\n\n  const Icon = lucide[iconName];\n\n  createIcons({\n    icons: {\n      [iconName]: Icon\n    }\n  });\n};\n\n\nrenderIcon();\n\nconst wrapper = this.closest(\"[data-wrapper]\")\nif (wrapper) {\n  wrapper.addEventListener(\"state_change\", (ev) => {\n    if (ev.detail) {\n      this.style.transform = \"rotate(180deg)\";\n    } else {\n      this.style.transform = \"rotate(0deg)\";\n    }\n  });\n}",
-                     "blockDataScript": "",
                      "blockId": "4s9sq1i3k",
                      "blockName": "container",
                      "children": [],
@@ -5059,7 +4771,6 @@
                     "width": "100%"
                    },
                    "blockClientScript": "const wrapper = this.closest(\"[data-wrapper]\");\n\nthis.style.maxHeight = \"0px\";\nif (wrapper) {\n  wrapper.addEventListener(\"state_change\", (ev) => {\n    if (ev.detail) {\n      this.style.maxHeight = \"240px\";\n    } else {\n      this.style.maxHeight = \"0px\";\n    }\n  });\n}\n",
-                   "blockDataScript": "",
                    "blockId": "k46jynkvi",
                    "blockName": "container",
                    "children": [
@@ -5078,8 +4789,6 @@
                       "position": "static",
                       "width": "100%"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "n4eq6rcs7",
                      "blockName": null,
                      "children": [],
@@ -5274,8 +4983,6 @@
         "position": "relative",
         "width": "100%"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "bkjzbssj7",
        "blockName": "More Details",
        "children": [
@@ -5292,8 +4999,6 @@
           "position": "static",
           "width": "450px"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "b3jquudli",
          "blockName": "container",
          "children": [],
@@ -5347,7 +5052,6 @@
         "justifyContent": "center",
         "width": "100%"
        },
-       "blockClientScript": "",
        "blockDataScript": "block.visible = bool(len(block.item_details.get(\"details\", {}).get(\"recommended_items\", [])))",
        "blockId": "uctt7l7v6",
        "blockName": "Similar Products",
@@ -5362,8 +5066,6 @@
           "gap": "32px",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "2xm425aoq",
          "blockName": "Wrapper",
          "children": [
@@ -5377,8 +5079,6 @@
             "justifyContent": "space-between",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "7b84t2w59",
            "blockName": "Top Bar",
            "children": [
@@ -5390,8 +5090,6 @@
               "display": "flex",
               "gap": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "76r8nbaxq",
              "blockName": "Collection Name",
              "children": [
@@ -5405,8 +5103,6 @@
                 "letterSpacing": "0.48px",
                 "lineHeight": "160% "
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "sflgz4dkz",
                "blockName": "Products",
                "children": [],
@@ -5423,7 +5119,7 @@
                ],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>Similar Products</p>",
+               "innerHTML": "<p>Produits similaires</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -5482,8 +5178,6 @@
             "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "igjxu6g2p",
            "blockName": "Products",
            "children": [
@@ -5498,7 +5192,6 @@
               "overflow": "hidden",
               "width": "fit-content"
              },
-             "blockClientScript": "",
              "blockDataScript": "price = frappe.call(\"webshop.webshop.api.get_item_price\", item_code = block.website_item) or {}\nblock.item_price = price.get(\"formatted_price\", \"\")\n\nblock.is_template = bool(block.has_variants)\nblock.route = f\"/item/{block.website_item}\"",
              "blockId": "zr1uv8gsv",
              "blockName": "Info Getter",
@@ -5507,8 +5200,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "9roduuvjg",
                "blockName": "Frame 22",
                "children": [
@@ -5516,8 +5207,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "yv3j8ga0e",
                  "blockName": "Frame 19",
                  "children": [
@@ -5527,8 +5216,6 @@
                     "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/image.webp"
                    },
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "qeiv84ucl",
                    "blockName": "image 2",
                    "children": [],
@@ -5563,8 +5250,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "3p07un5s9",
                    "blockName": null,
                    "children": [],
@@ -5610,8 +5295,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "8eeqevayp",
                  "blockName": "Frame 20",
                  "children": [
@@ -5619,8 +5302,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "4fnzzo17f",
                    "blockName": "Frame 188",
                    "children": [
@@ -5628,8 +5309,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "t6066sbq7",
                      "blockName": "Product name",
                      "children": [],
@@ -5661,8 +5340,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "73t8752hk",
                      "blockName": "₹998",
                      "children": [],
@@ -5715,8 +5392,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "bx5p0y4a2",
                    "blockName": "button",
                    "children": [
@@ -5724,8 +5399,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "0dup0uakf",
                      "blockName": "Discover",
                      "children": [],
@@ -5753,8 +5426,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "yb8giu5tk",
                      "blockName": "Discover",
                      "children": [],
@@ -6031,8 +5702,6 @@
         "overflow": "hidden",
         "width": "100%"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "fnqneh18e",
        "blockName": "Ratings and Reviews Wrapper",
        "children": [
@@ -6046,8 +5715,6 @@
           "letterSpacing": "0.48px",
           "lineHeight": "160% "
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "v3csjcy9d",
          "blockName": "Header",
          "children": [],
@@ -6057,7 +5724,7 @@
          "dynamicValues": [],
          "element": "p",
          "extendedFromComponent": null,
-         "innerHTML": "<p>Ratings and Reviews</p>",
+         "innerHTML": "<p>Notes et avis</p>",
          "isChildOfComponent": null,
          "isRepeaterBlock": false,
          "mobileStyles": {},
@@ -6078,8 +5745,6 @@
           "gap": "40px",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "64v3xfn92",
          "blockName": "Ratings and Reviews",
          "children": [
@@ -6093,8 +5758,6 @@
             "justifyContent": "space-between",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "yl7li7h28",
            "blockName": "Overview",
            "children": [
@@ -6108,8 +5771,6 @@
               "gap": "8px",
               "justifyContent": "center"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "00hga1qu7",
              "blockName": "Total Reviews",
              "children": [
@@ -6122,8 +5783,6 @@
                 "flexDirection": "column",
                 "gap": "2px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "mabf952hv",
                "blockName": "Average Rating",
                "children": [
@@ -6136,8 +5795,6 @@
                   "fontWeight": "600",
                   "lineHeight": "115% "
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "6i1klga8s",
                  "blockName": "4.8",
                  "children": [],
@@ -6186,10 +5843,8 @@
                     "height": "16px",
                     "width": "16px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "y0coigp5y",
-                   "blockName": "icon/solid/star",
+                   "blockName": "icon/erp/solid/star",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -6215,10 +5870,8 @@
                     "height": "16px",
                     "width": "16px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "t7zqo343d",
-                   "blockName": "icon/solid/star",
+                   "blockName": "icon/erp/solid/star",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -6244,10 +5897,8 @@
                     "height": "16px",
                     "width": "16px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "c3xj3dvn5",
-                   "blockName": "icon/solid/star",
+                   "blockName": "icon/erp/solid/star",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -6273,10 +5924,8 @@
                     "height": "16px",
                     "width": "16px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "g3srhqzqb",
-                   "blockName": "icon/solid/star",
+                   "blockName": "icon/erp/solid/star",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -6302,10 +5951,8 @@
                     "height": "16px",
                     "width": "16px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "c0xtz144d",
-                   "blockName": "icon/line/star",
+                   "blockName": "icon/erp/line/star",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -6372,7 +6019,6 @@
                 "letterSpacing": "0.28px",
                 "lineHeight": "115% "
                },
-               "blockClientScript": "",
                "blockDataScript": "block.total_reviews = f\"{block.review_data.get(\"total_reviews\", 0)} review(s)\"",
                "blockId": "hn2g04g9o",
                "blockName": "142 reviews",
@@ -6390,7 +6036,7 @@
                ],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>142 reviews</p>",
+               "innerHTML": "<p>142 avis</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -6429,8 +6075,6 @@
               "gap": "16px",
               "width": "612px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "bnaw8kbyq",
              "blockName": "Review Per Rating",
              "children": [
@@ -6445,8 +6089,6 @@
                 "overflow": "hidden",
                 "width": "100%"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "vdu5cejsq",
                "blockName": "repeater",
                "children": [
@@ -6460,8 +6102,6 @@
                   "gap": "16px",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "yh4cf3sxd",
                  "blockName": "Wrapper",
                  "children": [
@@ -6473,8 +6113,6 @@
                     "display": "flex",
                     "gap": "2px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "ihh88v1ya",
                    "blockName": "Star Number",
                    "children": [
@@ -6490,8 +6128,6 @@
                       "textAlign": "center",
                       "width": "12px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "0tnf1omu1",
                      "blockName": "5",
                      "children": [],
@@ -6526,10 +6162,8 @@
                       "height": "16px",
                       "width": "16px"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "1w8lg3vq4",
-                     "blockName": "icon/solid/star",
+                     "blockName": "icon/erp/solid/star",
                      "children": [],
                      "classes": [],
                      "customAttributes": {},
@@ -6578,8 +6212,6 @@
                     "gap": "10px",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "wxvczps0s",
                    "blockName": "Percentage",
                    "children": [
@@ -6651,8 +6283,6 @@
                     "lineHeight": "115% ",
                     "textAlign": "right"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "jmen46anp",
                    "blockName": "No of reviews",
                    "children": [],
@@ -6768,8 +6398,6 @@
                 "letterSpacing": "0.28px",
                 "lineHeight": "115% "
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "cnzwe6wq1",
                "blockName": "Discover",
                "children": [],
@@ -6779,7 +6407,7 @@
                "dynamicValues": [],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>Write a review</p>",
+               "innerHTML": "<p>Rédiger un avis</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -6844,8 +6472,6 @@
             "gap": "8px",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "lwd7c4j9r",
            "blockName": "divider",
            "children": [
@@ -6859,8 +6485,6 @@
               "overflowY": "hidden",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "n5x28qkfz",
              "blockName": "value",
              "children": [],
@@ -6910,7 +6534,6 @@
             "position": "static",
             "width": "100%"
            },
-           "blockClientScript": "",
            "blockDataScript": "block.visible = bool(len(block.review_data.get(\"reviews\")))",
            "blockId": "2adx0sgdx",
            "blockName": "Reviews",
@@ -6925,8 +6548,6 @@
               "justifyContent": "space-between",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "w4smegupb",
              "blockName": "Header",
              "children": [
@@ -6941,8 +6562,6 @@
                 "lineHeight": "115% ",
                 "textAlign": "center"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "r1e875lkf",
                "blockName": "Reviews (142)",
                "children": [],
@@ -6952,7 +6571,7 @@
                "dynamicValues": [],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "<p>Reviews</p>",
+               "innerHTML": "<p>Avis</p>",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -6976,8 +6595,6 @@
                 "justifyContent": "center",
                 "padding": "6px 8px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "yk0fdxqnv",
                "blockName": "button",
                "children": [
@@ -6989,8 +6606,6 @@
                   "display": "flex",
                   "gap": "8px"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "qmya7z8bp",
                  "blockName": "prefix",
                  "children": [
@@ -7001,10 +6616,8 @@
                     "height": "16px",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "1xx92axmx",
-                   "blockName": "icon/line/sort",
+                   "blockName": "icon/erp/line/sort",
                    "children": [],
                    "classes": [],
                    "customAttributes": {},
@@ -7051,8 +6664,6 @@
                   "letterSpacing": "0.28px",
                   "lineHeight": "115% "
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "7si01kpi6",
                  "blockName": "Discover",
                  "children": [],
@@ -7062,7 +6673,7 @@
                  "dynamicValues": [],
                  "element": "p",
                  "extendedFromComponent": null,
-                 "innerHTML": "Most recent",
+                 "innerHTML": "Plus récent",
                  "isChildOfComponent": null,
                  "isRepeaterBlock": false,
                  "mobileStyles": {},
@@ -7120,8 +6731,6 @@
               "overflow": "hidden",
               "width": "100%"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "xqmexyfqh",
              "blockName": "repeater",
              "children": [
@@ -7136,8 +6745,6 @@
                 "gap": "24px",
                 "width": "100%"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "5rlnj3zpy",
                "blockName": "Review Item",
                "children": [
@@ -7152,8 +6759,6 @@
                   "gap": "8px",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "cqj7act9o",
                  "blockName": "Wrapper",
                  "children": [
@@ -7170,8 +6775,6 @@
                     "padding": "5.5px 0",
                     "width": "232px"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "icz6b27nn",
                    "blockName": "advanced-cell",
                    "children": [
@@ -7185,8 +6788,7 @@
                       "gap": "10px",
                       "width": "100%"
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "block.user_image = frappe.db.get_value('User', block.user, 'user_image')",
+                     "blockDataScript": "block.user_image = (frappe.db.get_all('User', filters={'name': block.user}, fields=['user_image']) or [{}])[0].get('user_image') if block.user else None",
                      "blockId": "rk9zwufg4",
                      "blockName": "User Info",
                      "children": [
@@ -7198,8 +6800,6 @@
                         "display": "flex",
                         "gap": "8px"
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "kx8kdc2va",
                        "blockName": "Avatar",
                        "children": [
@@ -7214,8 +6814,6 @@
                           "gap": "8px",
                           "justifyContent": "center"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "8ol9lvugn",
                          "blockName": "avatar",
                          "children": [
@@ -7231,7 +6829,6 @@
                             "objectFit": "cover",
                             "width": "32px"
                            },
-                           "blockClientScript": "",
                            "blockDataScript": "block.user_image = block.user_image or f\"https://api.dicebear.com/9.x/initials/svg?seed={block.user}\"",
                            "blockId": "nrs7q1fdp",
                            "blockName": "avatar-image",
@@ -7306,8 +6903,6 @@
                         "gap": "6px",
                         "width": "190px"
                        },
-                       "blockClientScript": "",
-                       "blockDataScript": "",
                        "blockId": "0e7sedrh4",
                        "blockName": "content",
                        "children": [
@@ -7321,8 +6916,6 @@
                           "gap": "4px",
                           "width": "100%"
                          },
-                         "blockClientScript": "",
-                         "blockDataScript": "",
                          "blockId": "6fjwp1k6d",
                          "blockName": "Name",
                          "children": [
@@ -7337,8 +6930,6 @@
                             "letterSpacing": "0.21px",
                             "lineHeight": "115% "
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "cxlzs7b5a",
                            "blockName": "text",
                            "children": [],
@@ -7355,7 +6946,7 @@
                            ],
                            "element": "p",
                            "extendedFromComponent": null,
-                           "innerHTML": "<p>Rahul K</p>",
+                           "innerHTML": "<p>Jean-Baptiste R.</p>",
                            "isChildOfComponent": null,
                            "isRepeaterBlock": false,
                            "mobileStyles": {},
@@ -7382,8 +6973,6 @@
                             "letterSpacing": "0.26px",
                             "lineHeight": "115% "
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "cf4k014rg",
                            "blockName": "hint",
                            "children": [],
@@ -7443,10 +7032,8 @@
                             "height": "16px",
                             "width": "16px"
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "4whpkamto",
-                           "blockName": "icon/solid/star",
+                           "blockName": "icon/erp/solid/star",
                            "children": [],
                            "classes": [],
                            "customAttributes": {},
@@ -7472,10 +7059,8 @@
                             "height": "16px",
                             "width": "16px"
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "14jvioogl",
-                           "blockName": "icon/solid/star",
+                           "blockName": "icon/erp/solid/star",
                            "children": [],
                            "classes": [],
                            "customAttributes": {},
@@ -7501,10 +7086,8 @@
                             "height": "16px",
                             "width": "16px"
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "jyjbrervw",
-                           "blockName": "icon/solid/star",
+                           "blockName": "icon/erp/solid/star",
                            "children": [],
                            "classes": [],
                            "customAttributes": {},
@@ -7530,10 +7113,8 @@
                             "height": "16px",
                             "width": "16px"
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "wfbt6w0nk",
-                           "blockName": "icon/solid/star",
+                           "blockName": "icon/erp/solid/star",
                            "children": [],
                            "classes": [],
                            "customAttributes": {},
@@ -7559,10 +7140,8 @@
                             "height": "16px",
                             "width": "16px"
                            },
-                           "blockClientScript": "",
-                           "blockDataScript": "",
                            "blockId": "ns6i7sn3e",
-                           "blockName": "icon/line/star",
+                           "blockName": "icon/erp/line/star",
                            "children": [],
                            "classes": [],
                            "customAttributes": {},
@@ -7668,8 +7247,6 @@
                     "gap": "4px",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "0n7cyt8md",
                    "blockName": "Content",
                    "children": [
@@ -7684,8 +7261,6 @@
                       "letterSpacing": "0.21px",
                       "lineHeight": "150% "
                      },
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "fddovla50",
                      "blockName": "Title",
                      "children": [],
@@ -7702,7 +7277,7 @@
                      ],
                      "element": "p",
                      "extendedFromComponent": null,
-                     "innerHTML": "<p>Exactly what a developer tee should be</p>",
+                     "innerHTML": "<p>La qualité supérieure que vous méritez au quotidien.</p>",
                      "isChildOfComponent": null,
                      "isRepeaterBlock": false,
                      "mobileStyles": {},
@@ -7724,7 +7299,6 @@
                       "lineHeight": "150% ",
                       "width": "800px"
                      },
-                     "blockClientScript": "",
                      "blockDataScript": "block.comment = block.comment or \"<i>No Comments provided</i>\"",
                      "blockId": "k73i10qfu",
                      "blockName": "Comment",
@@ -7742,7 +7316,7 @@
                      ],
                      "element": "p",
                      "extendedFromComponent": null,
-                     "innerHTML": "<p>Ordered a medium and it fits perfectly, not oversized, not slim. The fabric is dense enough that you don't have to worry about it going translucent after two washes. The Frappe logo is subtle, which I appreciate. Would order again.</p>",
+                     "innerHTML": "<p>Commandé en taille M et il s'ajuste parfaitement, ni trop grand ni trop cintré. Le tissu est robuste et de haute qualité, ne se déforme pas au lavage. Je recommande vivement.</p>",
                      "isChildOfComponent": null,
                      "isRepeaterBlock": false,
                      "mobileStyles": {},
@@ -7800,8 +7374,6 @@
                   "gap": "8px",
                   "width": "100%"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "mdrnw9p2m",
                  "blockName": "divider",
                  "children": [
@@ -7815,8 +7387,6 @@
                     "overflowY": "hidden",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "4vhbqupoh",
                    "blockName": "value",
                    "children": [],
@@ -7923,8 +7493,6 @@
                 "letterSpacing": "0.28px",
                 "lineHeight": "115% "
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "rlfayhoe4",
                "blockName": "Discover",
                "children": [],
@@ -7934,7 +7502,7 @@
                "dynamicValues": [],
                "element": "p",
                "extendedFromComponent": null,
-               "innerHTML": "Show more",
+               "innerHTML": "Afficher plus",
                "isChildOfComponent": null,
                "isRepeaterBlock": false,
                "mobileStyles": {},
@@ -8042,8 +7610,7 @@
             "padding": "20px 24px 24px 24px",
             "width": "400px"
            },
-           "blockClientScript": "const state = {\n  web_item: block_data.web_item,\n  rating: 3.5 / 5,\n  title: \"\",\n  comment: \"\",\n};\n\nlisten(\"update-rating\", (e) => {\n  state.rating = e.detail.rating;\n});\n\nlisten(\"update-title\", (e) => {\n  state.title = e.detail.title;\n});\n\nlisten(\"update-comment\", (e) => {\n  state.comment = e.detail.comment;\n});\n\nlisten(\"submit-review\", async (e) => {\n  console.log(state)\n  try {\n    if (!state.title) {\n      dispatch(\"show-toast\", {\n        type: \"warning\",\n        message: \"Title is required!\",\n      });\n      return;\n    }\n    await frappe_call(\n      \"POST\",\n      \"webshop.webshop.doctype.item_review.item_review.add_item_review\",\n      { ...state }\n    );\n    window.location.reload();\n  } catch (error) {\n    dispatch(\"show-toast\", {\n      type: \"error\",\n      message: \"Could not add review!\",\n    });\n  }\n});\n",
-           "blockDataScript": "",
+           "blockClientScript": "const state = {\n  web_item: block_data.web_item,\n  rating: 3.5 /erp/ 5,\n  title: \"\",\n  comment: \"\",\n};\n\nlisten(\"update-rating\", (e) => {\n  state.rating = e.detail.rating;\n});\n\nlisten(\"update-title\", (e) => {\n  state.title = e.detail.title;\n});\n\nlisten(\"update-comment\", (e) => {\n  state.comment = e.detail.comment;\n});\n\nlisten(\"submit-review\", async (e) => {\n  console.log(state)\n  try {\n    if (!state.title) {\n      dispatch(\"show-toast\", {\n        type: \"warning\",\n        message: \"Title is required!\",\n      });\n      return;\n    }\n    await frappe_call(\n      \"POST\",\n      \"webshop.webshop.doctype.item_review.item_review.add_item_review\",\n      { ...state }\n    );\n    window.location.reload();\n  } catch (error) {\n    dispatch(\"show-toast\", {\n      type: \"error\",\n      message: \"Could not add review!\",\n    });\n  }\n});\n",
            "blockId": "lzfl4nfc5",
            "blockName": "Review Modal",
            "children": [
@@ -8057,8 +7624,6 @@
               "gap": "8px",
               "width": "352px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "151sl5x75",
              "blockName": "Header",
              "children": [
@@ -8073,8 +7638,6 @@
                 "justifyContent": "center",
                 "width": "316px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "q2539cu1k",
                "blockName": "Text",
                "children": [
@@ -8089,8 +7652,6 @@
                   "letterSpacing": "0.2px",
                   "lineHeight": "115% "
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "2sehtxroy",
                  "blockName": "text",
                  "children": [],
@@ -8100,7 +7661,7 @@
                  "dynamicValues": [],
                  "element": "p",
                  "extendedFromComponent": null,
-                 "innerHTML": "<p>Write a review</p>",
+                 "innerHTML": "<p>Rédiger un avis</p>",
                  "isChildOfComponent": null,
                  "isRepeaterBlock": false,
                  "mobileStyles": {},
@@ -8143,7 +7704,6 @@
                 "padding": "6px"
                },
                "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"close-review-modal\");\n});\n",
-               "blockDataScript": "",
                "blockId": "ftm8q6f0k",
                "blockName": "Close Button",
                "children": [
@@ -8154,10 +7714,8 @@
                   "height": "16px",
                   "width": "16px"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "gc1oke403",
-                 "blockName": "icon/line/close",
+                 "blockName": "icon/erp/line/close",
                  "children": [],
                  "classes": [],
                  "customAttributes": {},
@@ -8223,8 +7781,6 @@
               "gap": "16px",
               "width": "352px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "qh3lfg3zz",
              "blockName": "Main",
              "children": [
@@ -8240,8 +7796,6 @@
                 "position": "relative",
                 "width": "100%"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "c3s1ec0sn",
                "blockName": "modal-content",
                "children": [
@@ -8258,7 +7812,6 @@
                   "width": "100%"
                  },
                  "blockClientScript": "const textArea = this.querySelector(\"#comment-input\");\n\ntextArea.addEventListener(\"input\", () => {\n  dispatch(\"update-comment\", { comment: textArea.value });\n});\n",
-                 "blockDataScript": "",
                  "blockId": "mqwih47d0",
                  "blockName": null,
                  "children": [
@@ -8275,8 +7828,7 @@
                     "position": "static",
                     "width": "100%"
                    },
-                   "blockClientScript": "function createStarRatingInput({\n  container,\n  count = 5,\n  defaultValue = 0,\n  filledColor = \"var(--color-text-primary)\",\n  emptyColor = \"var(--color-border-secondary)\",\n  onChange = null,\n} = {}) {\n  // ── Styles ────────────────────────────────────────────────────────────────\n  const STYLE_ID = \"star-rating-styles\";\n  if (!document.getElementById(STYLE_ID)) {\n    const style = document.createElement(\"style\");\n    style.id = STYLE_ID;\n    style.textContent = `\n      .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}\n      .star-rating-heading{font-size:13px;color:var(--color-text-secondary);margin:0 0 12px;letter-spacing:.02em;text-transform:uppercase;font-weight:500}\n      .star-rating-stars{display:inline-flex;gap:4px;cursor:pointer;padding:4px 0;position:relative}\n      .star-rating-slot{width:40px;height:40px;position:relative;flex-shrink:0}\n      .star-rating-slot .half-hit{position:absolute;top:0;left:0;width:50%;height:100%;z-index:2}\n      .star-rating-slot .full-hit{position:absolute;top:0;left:50%;width:50%;height:100%;z-index:2}\n      .star-rating-label{font-size:15px;color:var(--color-text-secondary);min-height:22px;margin-top:8px;transition:color .15s}\n      .star-rating-label.active{color:var(--color-text-primary);font-weight:500}\n      .star-rating-pill{display:inline-flex;align-items:center;gap:8px;margin-top:16px;padding:8px 16px;border-radius:var(--border-radius-lg,12px);border:.5px solid var(--color-border-tertiary);background:var(--color-background-secondary);font-size:14px;color:var(--color-text-secondary)}\n      .star-rating-pill-val{font-size:18px;font-weight:500;color:var(--color-text-primary)}\n      .star-rating-clear{background:none;border:.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md,8px);padding:6px 14px;font-size:13px;color:var(--color-text-secondary);cursor:pointer;margin-top:16px;display:none}\n      .star-rating-clear:hover{background:var(--color-background-secondary)}\n    `;\n    document.head.appendChild(style);\n  }\n\n  // ── Labels ────────────────────────────────────────────────────────────────\n  const LABELS = {\n    0.5: \"Terrible\",\n    1: \"Poor\",\n    1.5: \"Mediocre\",\n    2: \"Below average\",\n    2.5: \"Average\",\n    3: \"Decent\",\n    3.5: \"Good\",\n    4: \"Great\",\n    4.5: \"Excellent\",\n    5: \"Outstanding\",\n  };\n\n  const PATH =\n    \"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\";\n\n  let hovered = 0;\n  let selected = defaultValue;\n\n  // ── SVG builders ─────────────────────────────────────────────────────────\n  function starSVG(fill) {\n    const id = \"sr\" + Math.random().toString(36).slice(2);\n    const base = `viewBox=\"0 0 16 16\" width=\"40\" height=\"40\" xmlns=\"http://www.w3.org/2000/svg\"`;\n    const p = (color, clip = \"\") =>\n      `<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"${PATH}\" ${clip} fill=\"${color}\"/>`;\n\n    if (fill === \"full\") return `<svg ${base}>${p(filledColor)}</svg>`;\n    if (fill === \"empty\") return `<svg ${base}>${p(emptyColor)}</svg>`;\n    return `<svg ${base}>\n      <defs>\n        <clipPath id=\"${id}l\"><rect x=\"0\" y=\"0\" width=\"8\" height=\"16\"/></clipPath>\n        <clipPath id=\"${id}r\"><rect x=\"8\" y=\"0\" width=\"8\" height=\"16\"/></clipPath>\n      </defs>\n      ${p(filledColor, `clip-path=\"url(#${id}l)\"`)}\n      ${p(emptyColor, `clip-path=\"url(#${id}r)\"`)}\n    </svg>`;\n  }\n\n  // ── DOM ───────────────────────────────────────────────────────────────────\n  const root = document.createElement(\"div\");\n  root.className = \"star-rating-wrap\";\n\n  // const srLabel = document.createElement('h2');\n  // srLabel.className = 'sr-only';\n  // srLabel.textContent = 'Star rating input — select between 0 and ' + count + ' stars, half-star increments supported';\n\n  // const heading = document.createElement('p');\n  // heading.className = 'star-rating-heading';\n  // heading.textContent = 'Your rating';\n\n  const starsEl = document.createElement(\"div\");\n  starsEl.className = \"star-rating-stars\";\n  starsEl.setAttribute(\"role\", \"radiogroup\");\n  starsEl.setAttribute(\"aria-label\", \"Star rating\");\n\n  // const labelEl = document.createElement('div');\n  // labelEl.className = 'star-rating-label';\n  // labelEl.textContent = selected ? LABELS[selected] : 'Select a rating';\n  // if (selected) labelEl.classList.add('active');\n\n  // const resultWrap = document.createElement('div');\n  // resultWrap.style.display = selected ? 'block' : 'none';\n\n  // const pill = document.createElement('div');\n  // pill.className = 'star-rating-pill';\n\n  // const pillVal = document.createElement('span');\n  // pillVal.className = 'star-rating-pill-val';\n  // pillVal.textContent = selected ? (selected % 1 === 0 ? selected + '.0' : selected) : '—';\n\n  // const pillText = document.createElement('span');\n  // pillText.textContent = '/ ' + count + ' stars';\n\n  // pill.appendChild(pillVal);\n  // pill.appendChild(pillText);\n\n  // const clearBtn = document.createElement('button');\n  // clearBtn.className = 'star-rating-clear';\n  // clearBtn.textContent = 'Clear rating';\n  // clearBtn.style.display = selected ? 'inline-block' : 'none';\n\n  // resultWrap.appendChild(document.createElement('br'));\n  // resultWrap.appendChild(pill);\n  // resultWrap.appendChild(document.createElement('br'));\n  // resultWrap.appendChild(clearBtn);\n\n  // root.appendChild(srLabel);\n  // root.appendChild(heading);\n  root.appendChild(starsEl);\n  // root.appendChild(labelEl);\n  // root.appendChild(resultWrap);\n\n  // ── Render helpers ────────────────────────────────────────────────────────\n  function render(val) {\n    Array.from(starsEl.children).forEach((slot, i) => {\n      const n = i + 1;\n      slot.querySelector(\".star-svg\").innerHTML = starSVG(\n        val >= n ? \"full\" : val >= n - 0.5 ? \"half\" : \"empty\"\n      );\n    });\n  }\n\n  // function updateLabel(val) {\n  //   labelEl.textContent = val === 0 ? \"Select a rating\" : LABELS[val] || \"\";\n  //   labelEl.classList.toggle(\"active\", val !== 0);\n  // }\n\n  function selectVal(val) {\n    selected = val;\n    render(selected);\n    // updateLabel(selected);\n    // pillVal.textContent = selected % 1 === 0 ? selected + \".0\" : selected;\n    // resultWrap.style.display = \"block\";\n    // clearBtn.style.display = \"inline-block\";\n    if (typeof onChange === \"function\") onChange(selected);\n  }\n\n  function clearRating() {\n    selected = hovered = 0;\n    render(0);\n    // updateLabel(0);\n    // resultWrap.style.display = \"none\";\n    // clearBtn.style.display = \"none\";\n    if (typeof onChange === \"function\") onChange(null);\n  }\n\n  // clearBtn.addEventListener('click', clearRating);\n\n  // ── Build star slots ──────────────────────────────────────────────────────\n  for (let i = 1; i <= count; i++) {\n    const slot = document.createElement(\"div\");\n    slot.className = \"star-rating-slot\";\n\n    const svgEl = document.createElement(\"div\");\n    svgEl.className = \"star-svg\";\n    svgEl.style.cssText =\n      \"position:absolute;top:0;left:0;width:40px;height:40px\";\n    svgEl.innerHTML = starSVG(\n      selected >= i ? \"full\" : selected >= i - 0.5 ? \"half\" : \"empty\"\n    );\n\n    const halfHit = document.createElement(\"div\");\n    halfHit.className = \"half-hit\";\n    halfHit.setAttribute(\"role\", \"radio\");\n    halfHit.setAttribute(\"aria-label\", i - 0.5 + \" stars\");\n    halfHit.setAttribute(\"tabindex\", \"0\");\n\n    const fullHit = document.createElement(\"div\");\n    fullHit.className = \"full-hit\";\n    fullHit.setAttribute(\"role\", \"radio\");\n    fullHit.setAttribute(\"aria-label\", i + \" stars\");\n    fullHit.setAttribute(\"tabindex\", \"0\");\n\n    const n = i;\n    halfHit.addEventListener(\"mouseenter\", () => {\n      hovered = n - 0.5;\n      render(hovered);\n      // updateLabel(hovered);\n    });\n    fullHit.addEventListener(\"mouseenter\", () => {\n      hovered = n;\n      render(hovered);\n      // updateLabel(hovered);\n    });\n    halfHit.addEventListener(\"click\", () => selectVal(n - 0.5));\n    fullHit.addEventListener(\"click\", () => selectVal(n));\n    [halfHit, fullHit].forEach((el) =>\n      el.addEventListener(\"keydown\", (e) => {\n        if (e.key === \"Enter\" || e.key === \" \") {\n          e.preventDefault();\n          el.click();\n        }\n      })\n    );\n\n    slot.appendChild(svgEl);\n    slot.appendChild(halfHit);\n    slot.appendChild(fullHit);\n    starsEl.appendChild(slot);\n  }\n\n  starsEl.addEventListener(\"mouseleave\", () => {\n    hovered = 0;\n    render(selected);\n    // updateLabel(selected);\n  });\n\n  // ── Mount ─────────────────────────────────────────────────────────────────\n  const target =\n    container instanceof Element\n      ? container\n      : document.querySelector(container);\n  if (target) target.appendChild(root);\n\n  // ── Public API ────────────────────────────────────────────────────────────\n  return {\n    getValue: () => selected,\n    setValue: (val) => selectVal(val),\n    clear: clearRating,\n    element: root,\n  };\n}\n\nconst rating = createStarRatingInput({\n  container: this, // CSS selector or Element (required)\n  count: 5, // number of stars (default: 5)\n  defaultValue: 3.5, // pre-selected value (default: 0)\n  filledColor: \"#171717\", // filled star color (default: var(--color-text-primary))\n  emptyColor: \"#ccc\", // empty star color  (default: var(--color-border-secondary))\n  onChange: (val) => {\n    // fires on every selection (null when cleared)\n    dispatch(\"update-rating\", {rating: val / 5});\n  },\n});\n",
-                   "blockDataScript": "",
+                   "blockClientScript": "function createStarRatingInput({\n  container,\n  count = 5,\n  defaultValue = 0,\n  filledColor = \"var(--color-text-primary)\",\n  emptyColor = \"var(--color-border-secondary)\",\n  onChange = null,\n} = {}) {\n  // ── Styles ────────────────────────────────────────────────────────────────\n  const STYLE_ID = \"star-rating-styles\";\n  if (!document.getElementById(STYLE_ID)) {\n    const style = document.createElement(\"style\");\n    style.id = STYLE_ID;\n    style.textContent = `\n      .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}\n      .star-rating-heading{font-size:13px;color:var(--color-text-secondary);margin:0 0 12px;letter-spacing:.02em;text-transform:uppercase;font-weight:500}\n      .star-rating-stars{display:inline-flex;gap:4px;cursor:pointer;padding:4px 0;position:relative}\n      .star-rating-slot{width:40px;height:40px;position:relative;flex-shrink:0}\n      .star-rating-slot .half-hit{position:absolute;top:0;left:0;width:50%;height:100%;z-index:2}\n      .star-rating-slot .full-hit{position:absolute;top:0;left:50%;width:50%;height:100%;z-index:2}\n      .star-rating-label{font-size:15px;color:var(--color-text-secondary);min-height:22px;margin-top:8px;transition:color .15s}\n      .star-rating-label.active{color:var(--color-text-primary);font-weight:500}\n      .star-rating-pill{display:inline-flex;align-items:center;gap:8px;margin-top:16px;padding:8px 16px;border-radius:var(--border-radius-lg,12px);border:.5px solid var(--color-border-tertiary);background:var(--color-background-secondary);font-size:14px;color:var(--color-text-secondary)}\n      .star-rating-pill-val{font-size:18px;font-weight:500;color:var(--color-text-primary)}\n      .star-rating-clear{background:none;border:.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md,8px);padding:6px 14px;font-size:13px;color:var(--color-text-secondary);cursor:pointer;margin-top:16px;display:none}\n      .star-rating-clear:hover{background:var(--color-background-secondary)}\n    `;\n    document.head.appendChild(style);\n  }\n\n  // ── Labels ────────────────────────────────────────────────────────────────\n  const LABELS = {\n    0.5: \"Terrible\",\n    1: \"Poor\",\n    1.5: \"Mediocre\",\n    2: \"Below average\",\n    2.5: \"Average\",\n    3: \"Decent\",\n    3.5: \"Good\",\n    4: \"Great\",\n    4.5: \"Excellent\",\n    5: \"Outstanding\",\n  };\n\n  const PATH =\n    \"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\";\n\n  let hovered = 0;\n  let selected = defaultValue;\n\n  // ── SVG builders ─────────────────────────────────────────────────────────\n  function starSVG(fill) {\n    const id = \"sr\" + Math.random().toString(36).slice(2);\n    const base = `viewBox=\"0 0 16 16\" width=\"40\" height=\"40\" xmlns=\"http:///www.w3.org/2000/svg\"`;\n    const p = (color, clip = \"\") =>\n      `<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"${PATH}\" ${clip} fill=\"${color}\"/>`;\n\n    if (fill === \"full\") return `<svg ${base}>${p(filledColor)}</svg>`;\n    if (fill === \"empty\") return `<svg ${base}>${p(emptyColor)}</svg>`;\n    return `<svg ${base}>\n      <defs>\n        <clipPath id=\"${id}l\"><rect x=\"0\" y=\"0\" width=\"8\" height=\"16\"/></clipPath>\n        <clipPath id=\"${id}r\"><rect x=\"8\" y=\"0\" width=\"8\" height=\"16\"/></clipPath>\n      </defs>\n      ${p(filledColor, `clip-path=\"url(#${id}l)\"`)}\n      ${p(emptyColor, `clip-path=\"url(#${id}r)\"`)}\n    </svg>`;\n  }\n\n  // ── DOM ───────────────────────────────────────────────────────────────────\n  const root = document.createElement(\"div\");\n  root.className = \"star-rating-wrap\";\n\n  // const srLabel = document.createElement('h2');\n  // srLabel.className = 'sr-only';\n  // srLabel.textContent = 'Star rating input — select between 0 and ' + count + ' stars, half-star increments supported';\n\n  // const heading = document.createElement('p');\n  // heading.className = 'star-rating-heading';\n  // heading.textContent = 'Your rating';\n\n  const starsEl = document.createElement(\"div\");\n  starsEl.className = \"star-rating-stars\";\n  starsEl.setAttribute(\"role\", \"radiogroup\");\n  starsEl.setAttribute(\"aria-label\", \"Star rating\");\n\n  // const labelEl = document.createElement('div');\n  // labelEl.className = 'star-rating-label';\n  // labelEl.textContent = selected ? LABELS[selected] : 'Select a rating';\n  // if (selected) labelEl.classList.add('active');\n\n  // const resultWrap = document.createElement('div');\n  // resultWrap.style.display = selected ? 'block' : 'none';\n\n  // const pill = document.createElement('div');\n  // pill.className = 'star-rating-pill';\n\n  // const pillVal = document.createElement('span');\n  // pillVal.className = 'star-rating-pill-val';\n  // pillVal.textContent = selected ? (selected % 1 === 0 ? selected + '.0' : selected) : '—';\n\n  // const pillText = document.createElement('span');\n  // pillText.textContent = '/ ' + count + ' stars';\n\n  // pill.appendChild(pillVal);\n  // pill.appendChild(pillText);\n\n  // const clearBtn = document.createElement('button');\n  // clearBtn.className = 'star-rating-clear';\n  // clearBtn.textContent = 'Clear rating';\n  // clearBtn.style.display = selected ? 'inline-block' : 'none';\n\n  // resultWrap.appendChild(document.createElement('br'));\n  // resultWrap.appendChild(pill);\n  // resultWrap.appendChild(document.createElement('br'));\n  // resultWrap.appendChild(clearBtn);\n\n  // root.appendChild(srLabel);\n  // root.appendChild(heading);\n  root.appendChild(starsEl);\n  // root.appendChild(labelEl);\n  // root.appendChild(resultWrap);\n\n  // ── Render helpers ────────────────────────────────────────────────────────\n  function render(val) {\n    Array.from(starsEl.children).forEach((slot, i) => {\n      const n = i + 1;\n      slot.querySelector(\".star-svg\").innerHTML = starSVG(\n        val >= n ? \"full\" : val >= n - 0.5 ? \"half\" : \"empty\"\n      );\n    });\n  }\n\n  // function updateLabel(val) {\n  //   labelEl.textContent = val === 0 ? \"Select a rating\" : LABELS[val] || \"\";\n  //   labelEl.classList.toggle(\"active\", val !== 0);\n  // }\n\n  function selectVal(val) {\n    selected = val;\n    render(selected);\n    // updateLabel(selected);\n    // pillVal.textContent = selected % 1 === 0 ? selected + \".0\" : selected;\n    // resultWrap.style.display = \"block\";\n    // clearBtn.style.display = \"inline-block\";\n    if (typeof onChange === \"function\") onChange(selected);\n  }\n\n  function clearRating() {\n    selected = hovered = 0;\n    render(0);\n    // updateLabel(0);\n    // resultWrap.style.display = \"none\";\n    // clearBtn.style.display = \"none\";\n    if (typeof onChange === \"function\") onChange(null);\n  }\n\n  // clearBtn.addEventListener('click', clearRating);\n\n  // ── Build star slots ──────────────────────────────────────────────────────\n  for (let i = 1; i <= count; i++) {\n    const slot = document.createElement(\"div\");\n    slot.className = \"star-rating-slot\";\n\n    const svgEl = document.createElement(\"div\");\n    svgEl.className = \"star-svg\";\n    svgEl.style.cssText =\n      \"position:absolute;top:0;left:0;width:40px;height:40px\";\n    svgEl.innerHTML = starSVG(\n      selected >= i ? \"full\" : selected >= i - 0.5 ? \"half\" : \"empty\"\n    );\n\n    const halfHit = document.createElement(\"div\");\n    halfHit.className = \"half-hit\";\n    halfHit.setAttribute(\"role\", \"radio\");\n    halfHit.setAttribute(\"aria-label\", i - 0.5 + \" stars\");\n    halfHit.setAttribute(\"tabindex\", \"0\");\n\n    const fullHit = document.createElement(\"div\");\n    fullHit.className = \"full-hit\";\n    fullHit.setAttribute(\"role\", \"radio\");\n    fullHit.setAttribute(\"aria-label\", i + \" stars\");\n    fullHit.setAttribute(\"tabindex\", \"0\");\n\n    const n = i;\n    halfHit.addEventListener(\"mouseenter\", () => {\n      hovered = n - 0.5;\n      render(hovered);\n      // updateLabel(hovered);\n    });\n    fullHit.addEventListener(\"mouseenter\", () => {\n      hovered = n;\n      render(hovered);\n      // updateLabel(hovered);\n    });\n    halfHit.addEventListener(\"click\", () => selectVal(n - 0.5));\n    fullHit.addEventListener(\"click\", () => selectVal(n));\n    [halfHit, fullHit].forEach((el) =>\n      el.addEventListener(\"keydown\", (e) => {\n        if (e.key === \"Enter\" || e.key === \" \") {\n          e.preventDefault();\n          el.click();\n        }\n      })\n    );\n\n    slot.appendChild(svgEl);\n    slot.appendChild(halfHit);\n    slot.appendChild(fullHit);\n    starsEl.appendChild(slot);\n  }\n\n  starsEl.addEventListener(\"mouseleave\", () => {\n    hovered = 0;\n    render(selected);\n    // updateLabel(selected);\n  });\n\n  // ── Mount ─────────────────────────────────────────────────────────────────\n  const target =\n    container instanceof Element\n      ? container\n      : document.querySelector(container);\n  if (target) target.appendChild(root);\n\n  // ── Public API ────────────────────────────────────────────────────────────\n  return {\n    getValue: () => selected,\n    setValue: (val) => selectVal(val),\n    clear: clearRating,\n    element: root,\n  };\n}\n\nconst rating = createStarRatingInput({\n  container: this, // CSS selector or Element (required)\n  count: 5, // number of stars (default: 5)\n  defaultValue: 3.5, // pre-selected value (default: 0)\n  filledColor: \"#171717\", // filled star color (default: var(--color-text-primary))\n  emptyColor: \"#ccc\", // empty star color  (default: var(--color-border-secondary))\n  onChange: (val) => {\n    // fires on every selection (null when cleared)\n    dispatch(\"update-rating\", {rating: val / 5});\n  },\n});\n",
                    "blockId": "wu95kvvhb",
                    "blockName": "Star Input",
                    "children": [],
@@ -8317,7 +7869,6 @@
                     "width": "100%"
                    },
                    "blockClientScript": "this.addEventListener(\"input\", () => {\n  dispatch(\"update-title\", { title: this.value });\n});\n",
-                   "blockDataScript": "",
                    "blockId": "vzxw2ov6v",
                    "blockName": "Title",
                    "children": [],
@@ -8359,8 +7910,6 @@
                     "position": "static",
                     "width": "100%"
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "pvuasvwia",
                    "blockName": "Comment",
                    "children": [],
@@ -8450,8 +7999,6 @@
               "justifyContent": "flex-end",
               "width": "352px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "hfvho41tx",
              "blockName": "Footer",
              "children": [
@@ -8463,8 +8010,6 @@
                 "display": "flex",
                 "gap": "6px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "4dgipzahf",
                "blockName": "button-group",
                "children": [
@@ -8485,7 +8030,6 @@
                   "padding": "6px 8px"
                  },
                  "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"close-review-modal\");\n});\n",
-                 "blockDataScript": "",
                  "blockId": "tjjjxc6lo",
                  "blockName": "Cancel",
                  "children": [
@@ -8499,8 +8043,6 @@
                     "letterSpacing": "0.28px",
                     "lineHeight": "115% "
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "3u7v20kt2",
                    "blockName": "Discover",
                    "children": [],
@@ -8510,7 +8052,7 @@
                    "dynamicValues": [],
                    "element": "p",
                    "extendedFromComponent": null,
-                   "innerHTML": "<p>Cancel</p>",
+                   "innerHTML": "<p>Annuler</p>",
                    "isChildOfComponent": null,
                    "isRepeaterBlock": false,
                    "mobileStyles": {},
@@ -8552,7 +8094,6 @@
                   "padding": "6px 8px"
                  },
                  "blockClientScript": "this.addEventListener(\"click\", () => {\n  dispatch(\"submit-review\");\n});\n",
-                 "blockDataScript": "",
                  "blockId": "qyelrfomr",
                  "blockName": "Submit",
                  "children": [
@@ -8566,8 +8107,6 @@
                     "letterSpacing": "0.28px",
                     "lineHeight": "115% "
                    },
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "vov5pyyva",
                    "blockName": "Discover",
                    "children": [],
@@ -8577,7 +8116,7 @@
                    "dynamicValues": [],
                    "element": "p",
                    "extendedFromComponent": null,
-                   "innerHTML": "<p>Submit</p>",
+                   "innerHTML": "<p>Soumettre</p>",
                    "isChildOfComponent": null,
                    "isRepeaterBlock": false,
                    "mobileStyles": {},
@@ -8736,8 +8275,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "fitc32r2s",
      "blockName": "Footer",
      "children": [
@@ -8745,8 +8282,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "sv82l6zkn",
        "blockName": "Frame 27",
        "children": [
@@ -8754,8 +8289,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "hnp9n97sa",
          "blockName": "Frame 46",
          "children": [
@@ -8763,8 +8296,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "48oqapug1",
            "blockName": "Frame 4",
            "children": [
@@ -8772,8 +8303,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "3ijj2mwas",
              "blockName": "app logo",
              "children": [
@@ -8781,8 +8310,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "2iv3ncsbn",
                "blockName": "Union",
                "children": [
@@ -8790,8 +8317,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "aqlijcteb",
                  "blockName": "Vector",
                  "children": [],
@@ -8816,8 +8341,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "iyzw2fkag",
                  "blockName": "Vector",
                  "children": [],
@@ -8878,8 +8401,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "qrrfv0nz2",
              "blockName": "Shop",
              "children": [],
@@ -8922,8 +8443,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "4td0e0ses",
            "blockName": "Engineered for comfort. Designed for builders. The official merchandise store for the Frappe community.",
            "children": [],
@@ -8966,8 +8485,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "cfh61s2du",
          "blockName": "Frame 52",
          "children": [
@@ -8975,8 +8492,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "e6uj189ps",
            "blockName": "Frame 49",
            "children": [
@@ -8984,8 +8499,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "24ralms8k",
              "blockName": "Shop",
              "children": [],
@@ -9010,8 +8523,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ct9vjk1a2",
              "blockName": "Frame 48",
              "children": [
@@ -9019,8 +8530,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "68xgexpdf",
                "blockName": "New Arrivals",
                "children": [],
@@ -9045,8 +8554,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "y8tohb87i",
                "blockName": "Apparel",
                "children": [],
@@ -9071,8 +8578,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "7n14j6pdt",
                "blockName": "Accessories",
                "children": [],
@@ -9097,8 +8602,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "qrydc3p9t",
                "blockName": "Gift cards",
                "children": [],
@@ -9159,8 +8662,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "a3vvngkw6",
            "blockName": "Frame 50",
            "children": [
@@ -9168,8 +8669,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "wt72pomev",
              "blockName": "Support",
              "children": [],
@@ -9194,8 +8693,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "sjtjmksxt",
              "blockName": "Frame 48",
              "children": [
@@ -9203,8 +8700,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "allg4ipl6",
                "blockName": "Help Center",
                "children": [],
@@ -9229,8 +8724,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "2sdipou0h",
                "blockName": "Returns",
                "children": [],
@@ -9255,8 +8748,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "vq4naddh3",
                "blockName": "Contact Us",
                "children": [],
@@ -9317,8 +8808,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "l12uvzju7",
            "blockName": "Frame 51",
            "children": [
@@ -9326,8 +8815,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "d0mx1ubto",
              "blockName": "Legal",
              "children": [],
@@ -9352,8 +8839,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "vqnsn18lm",
              "blockName": "Frame 48",
              "children": [
@@ -9361,8 +8846,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "f7bqt65cl",
                "blockName": "Privacy",
                "children": [],
@@ -9387,8 +8870,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "o0c693uro",
                "blockName": "Terms",
                "children": [],
@@ -9529,14 +9010,15 @@
  "idx": 0,
  "is_standard": 1,
  "is_template": 0,
- "modified": "2026-05-14 09:44:37.238312",
+ "modified": "2026-05-20 16:33:43.601200",
  "modified_by": "Administrator",
  "name": "products-details",
  "owner": "Administrator",
  "page_name": "products-details",
  "page_title": "Item",
- "preview": "/files/products-details-preview.webp?v=52680",
+ "preview": "/erp/files/products-details-preview.webp?v=d0070",
  "project_folder": "webshop",
  "published": 1,
+ "published_at": "2026-05-20 14:01:43.830408",
  "route": "item/:item_code"
 }

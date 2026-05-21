@@ -15,8 +15,6 @@
     "flexWrap": "wrap",
     "position": "relative"
    },
-   "blockClientScript": "",
-   "blockDataScript": "",
    "blockId": "root",
    "blockName": null,
    "children": [
@@ -24,8 +22,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "u296ma16x",
      "blockName": "Script Utils",
      "children": [],
@@ -50,8 +46,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "brvr08c7y",
      "blockName": "container",
      "children": [],
@@ -76,8 +70,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "pn20xejpi",
      "blockName": "search-wrapper",
      "children": [
@@ -85,8 +77,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "w8wzo7ekq",
        "blockName": "close-button",
        "children": [
@@ -97,8 +87,6 @@
           "height": "16px",
           "width": "16px"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "hsgvmmrt6",
          "blockName": "container",
          "children": [],
@@ -159,8 +147,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "0udrbls1k",
        "blockName": "clamp-js",
        "children": [],
@@ -185,8 +171,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "dctl1sty3",
        "blockName": "upper-part",
        "children": [
@@ -194,8 +178,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "du8pw073y",
          "blockName": "search-box",
          "children": [],
@@ -238,8 +220,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "ktq30yyyy",
        "blockName": "lower-part",
        "children": [
@@ -247,8 +227,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "o8qm8b22u",
          "blockName": "Search Results Group",
          "children": [
@@ -256,8 +234,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "0v1uj45hb",
            "blockName": "Header",
            "children": [
@@ -265,8 +241,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "esba31kxi",
              "blockName": null,
              "children": [],
@@ -309,8 +283,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "adlv3e7eq",
            "blockName": "Item",
            "children": [
@@ -318,8 +290,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "vjrmzf0m5",
              "blockName": null,
              "children": [],
@@ -344,8 +314,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "49v3lmy30",
              "blockName": "container",
              "children": [
@@ -353,8 +321,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "kx1re0md0",
                "blockName": null,
                "children": [],
@@ -379,8 +345,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "9bla5hq0s",
                "blockName": null,
                "children": [],
@@ -497,8 +461,6 @@
      "baseStyles": {
       "position": "relative"
      },
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "6mg6gj7q1",
      "blockName": "Variants",
      "children": [
@@ -508,8 +470,6 @@
        "baseStyles": {
         "position": "relative"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "p6wu2afyd",
        "blockName": "Nav - Links - Center",
        "children": [
@@ -519,8 +479,6 @@
          "baseStyles": {
           "position": "relative"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "7al57c8cr",
          "blockName": "Logo",
          "children": [
@@ -530,8 +488,6 @@
            "baseStyles": {
             "position": "relative"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "859u6md8y",
            "blockName": "app logo",
            "children": [
@@ -541,8 +497,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "v45i6chxy",
              "blockName": null,
              "children": [],
@@ -585,8 +539,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "byks1auv9",
            "blockName": "Shop",
            "children": [],
@@ -636,8 +588,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "5lqh3af50",
          "blockName": "Links",
          "children": [
@@ -645,8 +595,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "kovx53fxu",
            "blockName": "Shop",
            "children": [],
@@ -702,8 +650,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "2muz1jrur",
          "blockName": "Icons",
          "children": [
@@ -711,8 +657,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "jxsd7oocc",
            "blockName": "search",
            "children": [
@@ -723,8 +667,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "mllhhcuya",
              "blockName": "container",
              "children": [],
@@ -783,8 +725,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "6d2hz99k0",
            "blockName": "account",
            "children": [
@@ -795,8 +735,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ct2kxcip4",
              "blockName": "container",
              "children": [],
@@ -858,8 +796,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "eu6jguepe",
            "blockName": "cart",
            "children": [
@@ -870,8 +806,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "t6wbg9ggd",
              "blockName": "container",
              "children": [],
@@ -932,8 +866,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "dg6bjde8z",
            "blockName": "menu",
            "children": [
@@ -946,8 +878,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "k2trmwk21",
              "blockName": "container",
              "children": [],
@@ -1051,8 +981,6 @@
        "baseStyles": {
         "position": "relative"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "mrj1wiw38",
        "blockName": "Nav - Links - Right",
        "children": [
@@ -1062,8 +990,6 @@
          "baseStyles": {
           "position": "relative"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "3l02q96y6",
          "blockName": "Logo",
          "children": [
@@ -1073,8 +999,6 @@
            "baseStyles": {
             "position": "relative"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "b0hnh967p",
            "blockName": "app logo",
            "children": [
@@ -1084,8 +1008,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ulh0d70x9",
              "blockName": null,
              "children": [],
@@ -1128,8 +1050,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "lbiujv7gf",
            "blockName": "Shop",
            "children": [],
@@ -1179,8 +1099,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "6envzi47e",
          "blockName": "Links and Icons",
          "children": [
@@ -1188,8 +1106,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "hcq1nvoz0",
            "blockName": "Links",
            "children": [
@@ -1197,8 +1113,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "roiyph2w2",
              "blockName": "Shop",
              "children": [],
@@ -1254,8 +1168,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "kj7f8trse",
            "blockName": "divider",
            "children": [],
@@ -1280,8 +1192,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "mberjv31d",
            "blockName": "Icons",
            "children": [
@@ -1289,8 +1199,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "mka3g83zw",
              "blockName": "search",
              "children": [
@@ -1301,8 +1209,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "eec1tbzgv",
                "blockName": "container",
                "children": [],
@@ -1361,8 +1267,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "rdtwzzz7p",
              "blockName": "account",
              "children": [
@@ -1373,8 +1277,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "3djs0zd1q",
                "blockName": "container",
                "children": [],
@@ -1436,8 +1338,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "9iqt5kd1g",
              "blockName": "cart",
              "children": [
@@ -1448,8 +1348,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "88fmlc87v",
                "blockName": "container",
                "children": [],
@@ -1510,8 +1408,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "m7ort1exz",
              "blockName": "menu",
              "children": [
@@ -1524,8 +1420,6 @@
                 "height": "16px",
                 "width": "16px"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "xp9kz0fly",
                "blockName": "container",
                "children": [],
@@ -1647,8 +1541,6 @@
        "baseStyles": {
         "position": "relative"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "kdhbsryow",
        "blockName": "Nav - Links - Left",
        "children": [
@@ -1656,8 +1548,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "4dvj62th2",
          "blockName": "Logo and Links",
          "children": [
@@ -1667,8 +1557,6 @@
            "baseStyles": {
             "position": "relative"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "hctkohrqm",
            "blockName": "Logo",
            "children": [
@@ -1678,8 +1566,6 @@
              "baseStyles": {
               "position": "relative"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "09ty0nx83",
              "blockName": "app logo",
              "children": [
@@ -1689,8 +1575,6 @@
                 "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
                },
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "1yyze1fgf",
                "blockName": null,
                "children": [],
@@ -1733,8 +1617,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "64m0pyaw1",
              "blockName": "Shop",
              "children": [],
@@ -1784,8 +1666,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "x6ir3abw8",
            "blockName": "divider",
            "children": [
@@ -1793,8 +1673,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "yttumzsum",
              "blockName": "value",
              "children": [],
@@ -1837,8 +1715,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "ufni0hqym",
            "blockName": "Links",
            "children": [
@@ -1846,8 +1722,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "1hhlh27fr",
              "blockName": "Shop",
              "children": [],
@@ -1921,8 +1795,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "jw5oplos2",
          "blockName": "Icons",
          "children": [
@@ -1930,8 +1802,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "hxmh3qcb7",
            "blockName": "search",
            "children": [
@@ -1942,8 +1812,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "1ds5i2lql",
              "blockName": "container",
              "children": [],
@@ -2002,8 +1870,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "x1mitk9vi",
            "blockName": "account",
            "children": [
@@ -2014,8 +1880,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "4y45e3gf6",
              "blockName": "container",
              "children": [],
@@ -2077,8 +1941,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "a0el33cxi",
            "blockName": "cart",
            "children": [
@@ -2089,8 +1951,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "1s0y4vvol",
              "blockName": "container",
              "children": [],
@@ -2151,8 +2011,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "6tt6eauuy",
            "blockName": "menu",
            "children": [
@@ -2165,8 +2023,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "md0m6ohj5",
              "blockName": "container",
              "children": [],
@@ -2270,8 +2126,6 @@
        "baseStyles": {
         "position": "relative"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "jnnr5vgr8",
        "blockName": "Nav - Logo - Center",
        "children": [
@@ -2279,8 +2133,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "xymti8b9k",
          "blockName": "Links",
          "children": [
@@ -2288,8 +2140,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "wj58xhkng",
            "blockName": "Shop",
            "children": [],
@@ -2347,8 +2197,6 @@
          "baseStyles": {
           "position": "relative"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "a3lr4bm96",
          "blockName": "Logo",
          "children": [
@@ -2358,8 +2206,6 @@
            "baseStyles": {
             "position": "relative"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "jk2lt5cr9",
            "blockName": "app logo",
            "children": [
@@ -2369,8 +2215,6 @@
               "src": "https://webshop-next.m.frappe.cloud/assets/erpnext/images/erpnext-favicon.svg"
              },
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "nfzwcr5s4",
              "blockName": null,
              "children": [],
@@ -2413,8 +2257,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "tb1ihv08c",
            "blockName": "Shop",
            "children": [],
@@ -2464,8 +2306,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "s2sj6nn2l",
          "blockName": "Icons",
          "children": [
@@ -2473,8 +2313,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "vlpatl3t1",
            "blockName": "search",
            "children": [
@@ -2485,8 +2323,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "b2ni9991y",
              "blockName": "container",
              "children": [],
@@ -2545,8 +2381,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "29o6o7ptv",
            "blockName": "account",
            "children": [
@@ -2557,8 +2391,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "fkjheqic7",
              "blockName": "container",
              "children": [],
@@ -2620,8 +2452,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "19rhd98g1",
            "blockName": "cart",
            "children": [
@@ -2632,8 +2462,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "nm1rcbfu1",
              "blockName": "container",
              "children": [],
@@ -2694,8 +2522,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "eylinra7s",
            "blockName": "menu",
            "children": [
@@ -2708,8 +2534,6 @@
               "height": "16px",
               "width": "16px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "wvyrxlzfu",
              "blockName": "container",
              "children": [],
@@ -2813,8 +2637,6 @@
        "baseStyles": {
         "position": "relative"
        },
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "to2018dsv",
        "blockName": "Menu",
        "children": [
@@ -2822,8 +2644,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "f28138edy",
          "blockName": null,
          "children": [
@@ -2831,8 +2651,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "at9i6dwcf",
            "blockName": "container",
            "children": [],
@@ -2893,8 +2711,6 @@
          "baseStyles": {
           "position": "relative"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "1fo5k7m4y",
          "blockName": "container",
          "children": [
@@ -2904,8 +2720,6 @@
            "baseStyles": {
             "position": "relative"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "vvev3rs4t",
            "blockName": "repeater",
            "children": [
@@ -2913,8 +2727,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "vjdj8gglw",
              "blockName": "Links",
              "children": [],
@@ -2970,8 +2782,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "0y0r393ya",
            "blockName": "p | Profile",
            "children": [],
@@ -3066,9 +2876,9 @@
         "isRequired": false,
         "options": {
          "defaultValue": {
-          "About": "/about",
+          "Boutique": "/store",
           "Collections": "/collections",
-          "Store": "/store"
+          "À propos": "/about"
          },
          "maxItems": null,
          "minItems": null
@@ -3119,8 +2929,6 @@
       "paddingTop": "60px",
       "width": "100%"
      },
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "jo3jshcel",
      "blockName": "Collection",
      "children": [
@@ -3137,7 +2945,7 @@
         "position": "static"
        },
        "blockClientScript": "if (block_data.redirect && !this.dataset.blockId) {\n  window.location.href = \"/shop\"\n}\n\nif (block_data.title) {\n  document.title = `Collection - ${block_data.title}`;\n}",
-       "blockDataScript": "collection_name = frappe.form_dict.name\n\nblock.collection_details = frappe.call(\"webshop.webshop.api.get_collection\", name=collection_name) or {}\n\ncollection_exists = bool(block.collection_details)\nblock.collection_exists = collection_exists\n\nselected_collections = [collection_name]\n\nfilters = {}\n\nif len(selected_collections):\n  filters[\"collection\"] = selected_collections\n\npage = 1\n\nif frappe.form_dict.page:\n  try:\n    page = int(frappe.form_dict.page)\n  except:\n    pass\n\ndef fill_missing_keys(data, keys, default=\"N/A\"):\n    def is_null(value):\n        return value is None or value == \"\" or value == [] or value == {}\n\n    for key in keys:\n        if key not in data or is_null(data[key]):\n            data[key] = default\n\n    return data\n\n\nhide_variants = bool(frappe.call(\"webshop.webshop.api.hide_variant_in_product_list\"))\nproducts_per_page = frappe.call(\"webshop.webshop.api.products_per_page\")\n\ntotal_items = frappe.call(\n    \"webshop.webshop.api.total_items\", filters=filters, exclude_variants=hide_variants\n) if collection_exists else 0\n\nblock.total_items = total_items\n\noffset = products_per_page * (page - 1)\noverflowed = offset >= total_items\n\nitems = frappe.call(\n    \"webshop.webshop.api.list_items\",\n    filters=filters,\n    limit=products_per_page,\n    offset=offset if not overflowed else 0,\n    exclude_variants=hide_variants,\n) if collection_exists else []\n\npage = page if not overflowed else 1\nif (page - 1) * products_per_page + len(items) < total_items:\n    block.more_pages = True\nelse:\n    block.more_pages = False\nblock.page = page\n\n\nfor item in items:\n    item[\"route\"] = f\"/item/{item.name}\"\n\nblock.items = [fill_missing_keys(item, [\"website_image\"], \"\") for item in items]\n\nblock.block_data = { \"redirect\" : not collection_exists, \"title\" : block.collection_details.get(\"name\", \"\") }",
+       "blockDataScript": "collection_name = frappe.form_dict.name or 'dummy'\n\nblock.collection_details = frappe.call(\"webshop.webshop.api.get_collection\", name=collection_name) or {}\n\ncollection_exists = bool(block.collection_details)\nblock.collection_exists = collection_exists\n\nselected_collections = [collection_name]\n\nfilters = {}\n\nif len(selected_collections):\n  filters[\"collection\"] = selected_collections\n\npage = 1\n\nif frappe.form_dict.page:\n  try:\n    page = int(frappe.form_dict.page)\n  except:\n    pass\n\ndef fill_missing_keys(data, keys, default=\"N/erp/A\"):\n    def is_null(value):\n        return value is None or value == \"\" or value == [] or value == {}\n\n    for key in keys:\n        if key not in data or is_null(data[key]):\n            data[key] = default\n\n    return data\n\n\nhide_variants = bool(frappe.call(\"webshop.webshop.api.hide_variant_in_product_list\"))\nproducts_per_page = frappe.call(\"webshop.webshop.api.products_per_page\")\n\ntotal_items = frappe.call(\n    \"webshop.webshop.api.total_items\", filters=filters, exclude_variants=hide_variants\n) if collection_exists else 0\n\nblock.total_items = total_items\n\noffset = products_per_page * (page - 1)\noverflowed = offset >= total_items\n\nitems = frappe.call(\n    \"webshop.webshop.api.list_items\",\n    filters=filters,\n    limit=products_per_page,\n    offset=offset if not overflowed else 0,\n    exclude_variants=hide_variants,\n) if collection_exists else []\n\npage = page if not overflowed else 1\nif (page - 1) * products_per_page + len(items) < total_items:\n    block.more_pages = True\nelse:\n    block.more_pages = False\nblock.page = page\n\n\nfor item in items:\n    if not item: continue\n    item[\"route\"] = f\"/item/{item.name}\"\n\nblock.items = [fill_missing_keys(item, [\"website_image\"], \"\") for item in items]\n\nblock.block_data = { \"redirect\" : not collection_exists, \"title\" : block.collection_details.get(\"name\", \"\") }",
        "blockId": "x1d1od7jm",
        "blockName": "Info Getter",
        "children": [
@@ -3153,8 +2961,6 @@
           "justifyContent": "flex-end",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "houovoafi",
          "blockName": "Frame 30",
          "children": [
@@ -3170,8 +2976,6 @@
             "justifyContent": "center",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "vyr5862ve",
            "blockName": "Information",
            "children": [
@@ -3185,8 +2989,6 @@
               "letterSpacing": "0.48px",
               "lineHeight": "160% "
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "fmu55oacw",
              "blockName": "All Products",
              "children": [],
@@ -3203,7 +3005,7 @@
              ],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "<p>Collection Name</p>",
+             "innerHTML": "<p>Nom de la collection</p>",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {
@@ -3227,8 +3029,6 @@
               "lineHeight": "150% ",
               "maxWidth": "800px"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "hldmv4kim",
              "blockName": "Official merchandise for the Frappe community.",
              "children": [],
@@ -3245,7 +3045,7 @@
              ],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "<p>Official merchandise for the Frappe community.</p>",
+             "innerHTML": "<p>Votre boutique de référence à Gonaïves pour l'électronique de pointe, l'électroménager moderne et la mode élégante.</p>",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {
@@ -3309,8 +3109,6 @@
           "position": "static",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "zxn5q3q09",
          "blockName": "Items",
          "children": [
@@ -3331,8 +3129,6 @@
             "overflow": "hidden",
             "width": "100%"
            },
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "47q66w3ad",
            "blockName": "Product List",
            "children": [
@@ -3347,7 +3143,6 @@
               "overflow": "hidden",
               "width": "fit-content"
              },
-             "blockClientScript": "",
              "blockDataScript": "price = frappe.call(\"webshop.webshop.api.get_item_price\",  item_code = block.name) or {}\nblock.item_price = price.get(\"formatted_price\", \"\")\n\nblock.is_template = bool(block.has_variants)",
              "blockId": "ne8qwt2v3",
              "blockName": "Item Info",
@@ -3358,8 +3153,6 @@
                "baseStyles": {
                 "position": "relative"
                },
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "nsbq8fje5",
                "blockName": "Item Card - Grid View",
                "children": [
@@ -3369,8 +3162,6 @@
                  "baseStyles": {
                   "position": "relative"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "99ie7q4xi",
                  "blockName": "Frame 19",
                  "children": [
@@ -3380,8 +3171,6 @@
                     "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/image.webp"
                    },
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "si2tvxsi6",
                    "blockName": "image 2",
                    "children": [],
@@ -3416,8 +3205,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "fiqvcfnj2",
                    "blockName": null,
                    "children": [],
@@ -3465,8 +3252,6 @@
                  "baseStyles": {
                   "position": "relative"
                  },
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "l4vcifh6v",
                  "blockName": "Frame 20",
                  "children": [
@@ -3474,8 +3259,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "ukofsl6ca",
                    "blockName": "Frame 188",
                    "children": [
@@ -3483,8 +3266,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "xirq7wwey",
                      "blockName": "Product name",
                      "children": [],
@@ -3516,8 +3297,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "8t886ierq",
                      "blockName": "₹998",
                      "children": [],
@@ -3570,8 +3349,6 @@
                    "activeState": null,
                    "attributes": {},
                    "baseStyles": {},
-                   "blockClientScript": "",
-                   "blockDataScript": "",
                    "blockId": "rtufwq1o3",
                    "blockName": "button",
                    "children": [
@@ -3579,8 +3356,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "xauw4qf2i",
                      "blockName": "Discover",
                      "children": [],
@@ -3608,8 +3383,6 @@
                      "activeState": null,
                      "attributes": {},
                      "baseStyles": {},
-                     "blockClientScript": "",
-                     "blockDataScript": "",
                      "blockId": "naw9stmc6",
                      "blockName": "Discover",
                      "children": [],
@@ -3853,7 +3626,6 @@
             "position": "relative",
             "width": "fit-content"
            },
-           "blockClientScript": "",
            "blockDataScript": "block.visible = not bool(block.total_items) and block.collection_exists\n",
            "blockId": "b4kni62kk",
            "blockName": "container",
@@ -3869,8 +3641,6 @@
               "position": "static",
               "width": "fit-content"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "2g6xwne2k",
              "blockName": null,
              "children": [],
@@ -3880,7 +3650,7 @@
              "dynamicValues": [],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "<p>No Items!</p>",
+             "innerHTML": "<p>Aucun article disponible !</p>",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {},
@@ -3927,7 +3697,6 @@
             "position": "relative",
             "width": "fit-content"
            },
-           "blockClientScript": "",
            "blockDataScript": "block.visible = not bool(block.total_items) and not block.collection_exists\n",
            "blockId": "0yqj8q4cz",
            "blockName": "container",
@@ -3943,8 +3712,6 @@
               "position": "static",
               "width": "fit-content"
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "bupognf9z",
              "blockName": null,
              "children": [],
@@ -3954,7 +3721,7 @@
              "dynamicValues": [],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "<p>Collection not found! Redirecting...</p>",
+             "innerHTML": "<p>Collection non trouvée ! Redirection...</p>",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {},
@@ -4021,8 +3788,6 @@
           "paddingTop": "8px",
           "width": "100%"
          },
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "yzy9mxsm5",
          "blockName": "Frame 65",
          "children": [
@@ -4058,8 +3823,6 @@
               "letterSpacing": "0.24px",
               "lineHeight": "115% "
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "02w5a4sfz",
              "blockName": "Discover",
              "children": [],
@@ -4069,7 +3832,7 @@
              "dynamicValues": [],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "Prev Page",
+             "innerHTML": "Page précédente",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {},
@@ -4128,7 +3891,6 @@
             "padding": "10px 12px"
            },
            "blockClientScript": "this.addEventListener(\"click\", () => {\n  const url = new URL(window.location.href);\n  url.searchParams.set(\"page\", parseInt(props[\"page\"]) + 1);\n\n  window.location.href = url.toString();\n});\n",
-           "blockDataScript": "",
            "blockId": "5d859tn3y",
            "blockName": "button",
            "children": [
@@ -4142,8 +3904,6 @@
               "letterSpacing": "0.24px",
               "lineHeight": "115% "
              },
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "zzmptwocv",
              "blockName": "Discover",
              "children": [],
@@ -4153,7 +3913,7 @@
              "dynamicValues": [],
              "element": "p",
              "extendedFromComponent": null,
-             "innerHTML": "<p>Next Page</p>",
+             "innerHTML": "<p>Page suivante</p>",
              "isChildOfComponent": null,
              "isRepeaterBlock": false,
              "mobileStyles": {},
@@ -4263,8 +4023,6 @@
      "activeState": null,
      "attributes": {},
      "baseStyles": {},
-     "blockClientScript": "",
-     "blockDataScript": "",
      "blockId": "fcgzns0xh",
      "blockName": "Footer",
      "children": [
@@ -4272,8 +4030,6 @@
        "activeState": null,
        "attributes": {},
        "baseStyles": {},
-       "blockClientScript": "",
-       "blockDataScript": "",
        "blockId": "f227jrq1m",
        "blockName": "Frame 27",
        "children": [
@@ -4281,8 +4037,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "9x50ru159",
          "blockName": "Frame 46",
          "children": [
@@ -4290,8 +4044,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "km9zryrz3",
            "blockName": "Frame 4",
            "children": [
@@ -4299,8 +4051,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "5q2e8gezx",
              "blockName": "app logo",
              "children": [
@@ -4308,8 +4058,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "ptj4r5ep4",
                "blockName": "Union",
                "children": [
@@ -4317,8 +4065,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "jv7e8gb7x",
                  "blockName": "Vector",
                  "children": [],
@@ -4338,8 +4084,6 @@
                  "activeState": null,
                  "attributes": {},
                  "baseStyles": {},
-                 "blockClientScript": "",
-                 "blockDataScript": "",
                  "blockId": "w16pmy5n0",
                  "blockName": "Vector",
                  "children": [],
@@ -4385,8 +4129,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "l32vmaxlh",
              "blockName": "Shop",
              "children": [],
@@ -4419,8 +4161,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "6nf82jf2c",
            "blockName": "Engineered for comfort. Designed for builders. The official merchandise store for the Frappe community.",
            "children": [],
@@ -4453,8 +4193,6 @@
          "activeState": null,
          "attributes": {},
          "baseStyles": {},
-         "blockClientScript": "",
-         "blockDataScript": "",
          "blockId": "o1q6o3oqy",
          "blockName": "Frame 52",
          "children": [
@@ -4462,8 +4200,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "lg7sehy56",
            "blockName": "Frame 49",
            "children": [
@@ -4471,8 +4207,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "ikydx8i6d",
              "blockName": "Shop",
              "children": [],
@@ -4492,8 +4226,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "7vx2jniwa",
              "blockName": "Frame 48",
              "children": [
@@ -4501,8 +4233,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "efmreaelw",
                "blockName": "New Arrivals",
                "children": [],
@@ -4522,8 +4252,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "882u6ubtm",
                "blockName": "Apparel",
                "children": [],
@@ -4543,8 +4271,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "8dsekb9fi",
                "blockName": "Accessories",
                "children": [],
@@ -4564,8 +4290,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "rybuqjbbs",
                "blockName": "Gift cards",
                "children": [],
@@ -4611,8 +4335,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "v9aty9us5",
            "blockName": "Frame 50",
            "children": [
@@ -4620,8 +4342,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "qbgt3hwp2",
              "blockName": "Support",
              "children": [],
@@ -4641,8 +4361,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "eomhpa81b",
              "blockName": "Frame 48",
              "children": [
@@ -4650,8 +4368,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "0ci2n7m78",
                "blockName": "Help Center",
                "children": [],
@@ -4671,8 +4387,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "n23vzc6lj",
                "blockName": "Returns",
                "children": [],
@@ -4692,8 +4406,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "ou84ui8i1",
                "blockName": "Contact Us",
                "children": [],
@@ -4739,8 +4451,6 @@
            "activeState": null,
            "attributes": {},
            "baseStyles": {},
-           "blockClientScript": "",
-           "blockDataScript": "",
            "blockId": "v617vc57d",
            "blockName": "Frame 51",
            "children": [
@@ -4748,8 +4458,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "kq1fag9ou",
              "blockName": "Legal",
              "children": [],
@@ -4769,8 +4477,6 @@
              "activeState": null,
              "attributes": {},
              "baseStyles": {},
-             "blockClientScript": "",
-             "blockDataScript": "",
              "blockId": "fxb9hiqi2",
              "blockName": "Frame 48",
              "children": [
@@ -4778,8 +4484,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "b5dyt4drw",
                "blockName": "Privacy",
                "children": [],
@@ -4799,8 +4503,6 @@
                "activeState": null,
                "attributes": {},
                "baseStyles": {},
-               "blockClientScript": "",
-               "blockDataScript": "",
                "blockId": "dnvfac96z",
                "blockName": "Terms",
                "children": [],
@@ -4910,14 +4612,15 @@
  "idx": 0,
  "is_standard": 1,
  "is_template": 0,
- "modified": "2026-05-14 09:53:08.556654",
+ "modified": "2026-05-20 16:33:43.626266",
  "modified_by": "Administrator",
  "name": "collection",
  "owner": "Administrator",
  "page_name": "collection",
  "page_title": "Collection",
- "preview": "/files/collection-preview.webp?v=142d4",
+ "preview": "/erp/files/collection-preview.webp?v=937d2",
  "project_folder": "webshop",
  "published": 1,
+ "published_at": "2026-05-20 14:01:44.072436",
  "route": "collection/:name"
 }
