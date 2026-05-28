@@ -175,7 +175,7 @@ $.extend(wishlist, {
 
 	redirect_guest() {
 		frappe.call('webshop.webshop.api.get_guest_redirect_on_action').then((res) => {
-			window.location.href = res.message || "/login";
+			window.location.href = res.message || "/erp/login";
 		});
 	},
 
