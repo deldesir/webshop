@@ -494,7 +494,7 @@ webshop.ProductView =  class {
 		let no_results_section = `
 			<div class="cart-empty frappe-card mt-4">
 				<div class="cart-empty-state">
-					<img src="/assets/webshop/images/cart-empty-state.png" alt="Empty Cart">
+					<img src="/erp/assets/webshop/images/cart-empty-state.png" alt="Empty Cart">
 				</div>
 				<div class="cart-empty-message mt-4">${ __("No products found") }</p>
 			</div>
