@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Copyright (c) 2021, Frappe Technologies Pvt. Ltd. and contributors
 # For license information, please see license.txt
 
@@ -8,13 +7,13 @@ import frappe
 from frappe import _
 from frappe.contacts.doctype.contact.contact import get_contact_name
 from frappe.model.document import Document
+from frappe.query_builder import DocType, functions
 from frappe.utils import cint, flt
 
 from webshop.webshop.doctype.webshop_settings.webshop_settings import (
 	get_shopping_cart_settings,
 )
 
-from frappe.query_builder import DocType, functions
 
 
 class UnverifiedReviewer(frappe.ValidationError):
@@ -110,11 +109,15 @@ def get_queried_reviews(web_item, start=0, end=10, data=None):
 
 		try:
 			count = frappe.db.get_all(
-				"Item Review", filters=filters, fields=[{"COUNT": "*", "as": "count"}]
+				"Item Review",
+				filters=filters,
+				fields=[{"COUNT": "*", "as": "count"}],
 			)[0].count
 		except (TypeError, AttributeError):
 			count = frappe.db.get_all(
-				"Item Review", filters=filters, fields=["count(*) as count"]
+				"Item Review",
+				filters=filters,
+				fields=["count(*) as count"],
 			)[0].count
 
 		# avoid overlap between ranges

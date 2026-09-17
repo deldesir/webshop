@@ -1,14 +1,12 @@
 import frappe
+from erpnext.utilities.product import get_price
 from frappe.utils import cint, flt
 
 from webshop.webshop.doctype.webshop_settings.webshop_settings import (
 	get_shopping_cart_settings,
 )
 from webshop.webshop.shopping_cart.cart import _set_price_list
-from webshop.webshop.variant_selector.item_variants_cache import (
-	ItemVariantsCacheManager,
-)
-from erpnext.utilities.product import get_price
+from webshop.webshop.variant_selector.item_variants_cache import ItemVariantsCacheManager
 
 
 def get_item_codes_by_attributes(attribute_filters, template_item_code=None):
@@ -106,8 +104,7 @@ def get_attributes_and_values(item_code):
 	for attr_name in attribute_list:
 		if attr_name not in ordered_attribute_value_map:
 			numeric_list = sorted(
-				[i for i in valid_options[attr_name] if i.replace(".", "").isnumeric()],
-				key=float,
+				[i for i in valid_options[attr_name] if i.replace(".", "").isnumeric()], key=float
 			)
 			ordered_attribute_value_map[attr_name] = numeric_list
 
@@ -203,9 +200,7 @@ def get_next_attribute_and_values(item_code, selected_attributes):
 			product_id = list(filtered_items)[0]
 
 	if product_id:
-		warehouse = frappe.get_cached_value(
-			"Website Item", {"item_code": product_id}, "website_warehouse"
-		)
+		warehouse = frappe.get_cached_value("Website Item", {"item_code": product_id}, "website_warehouse")
 
 	if exact_match and product_id:
 		web_item_name = frappe.get_cached_value(
