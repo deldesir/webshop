@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Copyright (c) 2021, Frappe Technologies Pvt. Ltd. and contributors
 # For license information, please see license.txt
 
@@ -11,12 +10,9 @@ from frappe.model.document import Document
 from frappe.rate_limiter import rate_limit
 from frappe.utils import cint
 
+from webshop.webshop.doctype.override_doctype.item_group import get_child_groups_for_website
 from webshop.webshop.product_data_engine.filters import ProductFiltersBuilder
 from webshop.webshop.product_data_engine.query import ProductQuery
-from webshop.webshop.doctype.override_doctype.item_group import (
-	get_child_groups_for_website,
-)
-
 from webshop.webshop.doctype.webshop_settings.webshop_settings import (
 	get_shopping_cart_settings,
 	show_quantity_in_website,
