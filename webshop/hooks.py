@@ -80,6 +80,9 @@ add_to_apps_screen = [
 		"name": "webshop",
 		"logo": "/assets/webshop/images/webshop_logo.png",
 		"title": "Webshop",
+		# Where the apps-screen tile lands: the workspace this app ships. Without a route the
+		# desk has nothing to land on (no app_home, no dock) and the tile returns to the apps screen.
+		"route": "/desk/webshop",
 	}
 ]
 
